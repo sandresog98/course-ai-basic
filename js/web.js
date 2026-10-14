@@ -11,7 +11,7 @@
 
   /* -------------------- Version de imagenes (cache-busting) -------------------- */
   // Sube IMG_VER cuando reemplaces imagenes en assets/imagenes/ o assets/logos/.
-  const IMG_VER = "7";
+  const IMG_VER = "8";
   (function bustImageCache() {
     document.querySelectorAll('img[src*="assets/"]').forEach(img => {
       const s = img.getAttribute("src");
