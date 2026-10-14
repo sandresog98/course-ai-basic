@@ -1,6 +1,6 @@
 ﻿> ⚠️ Prompts en estilo **plano** (referencia histórica). El set definitivo adoptado es **2.5D** en imggen/prompts/imagenes.md (generado por imggen/).
 
-# F4 â€” Prompts de imÃ¡genes (SiliconFlow)
+# F3 â€” Prompts de imÃ¡genes (SiliconFlow)
 
 > Prompts para el bloque "IA de EEUU vs. IA de China".
 > Estilo global y parÃ¡metros: ver `../01-bienvenida/prompts-imagenes.md`.
@@ -60,7 +60,7 @@
 
 ---
 
-## Checklist de validaciÃ³n F4-imÃ¡genes
+## Checklist de validaciÃ³n F3-imÃ¡genes
 
 - [ ] Â¿La **balanza** transmite bien el tono neutral?
 - [ ] Â¿La imagen del **candado/datos** es clara y no alarmista?

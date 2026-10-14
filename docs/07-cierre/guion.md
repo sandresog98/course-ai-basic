@@ -36,7 +36,7 @@ fue construido con IA. Cerrar con un Q&A amplio.
 >
 > 1. **La IA no es ChatGPT.** ChatGPT es solo una ventana.
 > 2. **Hay muchos modelos**, uno para cada tarea.
-> 3. **Hay IA de Estado Unidos y tambián IA china**, y no se trata de bandos, sino de que conviene más utilizar y cuando.
+> 3. **Hay IA de Estados Unidos y de China**, y no es una pelea: lo clave es **dónde quedan tus datos**.
 > 4. **Pedir bien = obtener bien.** El prompt es el 90% del resultado.
 > 5. **La IA también vive en tu computador**, y no solo responde: **hace**."
 

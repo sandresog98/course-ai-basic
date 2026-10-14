@@ -1,6 +1,6 @@
 ﻿> ⚠️ Prompts en estilo **plano** (referencia histórica). El set definitivo adoptado es **2.5D** en imggen/prompts/imagenes.md (generado por imggen/).
 
-# F3 â€” Prompts de imÃ¡genes (SiliconFlow)
+# F4 â€” Prompts de imÃ¡genes (SiliconFlow)
 
 > Prompts para el bloque "Â¿QuÃ© modelos existen y cuÃ¡ndo usarlos?".
 > Estilo global y parÃ¡metros: ver `../01-bienvenida/prompts-imagenes.md`.
@@ -53,7 +53,7 @@
 
 ---
 
-## Checklist de validaciÃ³n F3-imÃ¡genes
+## Checklist de validaciÃ³n F4-imÃ¡genes
 
 - [ ] Â¿El **equipo de profesionales** comunica bien la analogÃ­a?
 - [ ] Â¿El **mapa de 6 familias** queda claro sin texto?

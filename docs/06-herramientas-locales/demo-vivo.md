@@ -1,88 +1,64 @@
-# F6 — Demo en vivo: "OpenCode trabaja sobre un archivo" 🎥
+# F6 — Demo en vivo: OpenCode organiza una carpeta 🎥
 
-> Guion exacto de la demo en vivo (6:00–9:00). Duración: **3 minutos**.
-> Objetivo: que el público vea a un **agente** leyendo y creando archivos en pantalla.
+> Guion de la demo en vivo (6:00–9:00). Duración: **~3 minutos**.
+> Objetivo: que el público vea a un **agente** trabajar sobre **archivos reales**:
+> organizar una carpeta de estudio y generar un informe.
 
 ---
 
 ## Antes de entrar (checklist de preparación)
 
-- [ ] OpenCode abierto en una carpeta **de prueba** (no de trabajo real).
-- [ ] Un archivo de ejemplo sencillo, en español, sin datos sensibles.
-- [ ] Letra grande y tema claro para que se vea en la proyección.
+- [ ] OpenCode abierto en `ejercicios/opencode/Estudio` (o una copia).
 - [ ] **Ningún** dato real de asociados en la carpeta.
-- [ ] Video de respaldo grabado, por si falla algo.
+- [ ] Letra grande y tema claro para que se vea en la proyección.
+- [ ] **Respaldo**: las capturas del carrusel (ya están hechas).
 
 ---
 
-## Archivo de ejemplo sugerido
+## Escenario
 
-Crea una carpeta `demo-curso-ia/` con un archivo `notas-reunion.md` que contenga
-notas desordenadas de una reunión ficticia, por ejemplo:
-
-```
-reunion de hoy: hablamos de la charla de ia, hay que invitar a 400 asociados,
-faltan los permisos de la sala, alguien dijo que llevemos refrigerios y que
-la charla sea el jueves. pendiente avisar por whatsapp.
-```
-
-> 💡 Usa contenido **ficticio**. Nunca información real de la cooperativa.
+Una carpeta **"Estudio"** de un universitario con **32 archivos desordenados**
+(talleres, parciales, apuntes, fotos de pizarra, audios, zips…) en la raíz y en
+subcarpetas como `descargas/`, `varios/` y `2024-2/`.
+El material real está en `ejercicios/opencode/Estudio`.
 
 ---
 
-## Guion de la demo
+## Instrucción
 
-### Paso 1 — Presentar el escenario (30 s)
-Muestra la carpeta y el archivo en pantalla y di:
-> "Aquí tengo unas notas desordenadas de una reunión. Voy a pedirle a OpenCode que
-> las organice, sin yo escribir nada."
-
-### Paso 2 — La instrucción en español (30 s)
-Escribe en OpenCode:
-> **"Lee el archivo notas-reunion.md y crea un archivo resumen.md con los puntos
-> clave, las tareas pendientes y el responsable de cada una."**
-
-### Paso 3 — La magia (60 s)
-Deja que OpenCode **lea el archivo y cree el nuevo**. Mientras trabaja, comenta:
-> "Miren cómo está leyendo el archivo, entendiendo y creando uno nuevo. Yo no toqué
-> nada. Él actuó sobre mis archivos."
-
-### Paso 4 — Verificar (30 s)
-Abre `resumen.md` y muestra el resultado. Di:
-> "Y aquí está el resumen. Esto es lo importante: **yo reviso**. La IA propone,
-> yo decido si está bien."
-
-### Paso 5 — Cierre (30 s)
-> "Eso es un agente: no me dijo cómo hacerlo, lo hizo. Y todo pasó en mi computador."
+> **"Organiza la carpeta `Estudio` en subcarpetas por materia (Cálculo, Física, Programación, Química, Estadística, Historia, Inglés), renombra los archivos de forma consistente (`materia_tipo_numero`) y crea un archivo `informe.md` con el listado de lo que hiciste y qué hay en cada carpeta."**
 
 ---
 
-## Preguntas para lanzar al público
+## Pasos (con su captura del carrusel)
 
-- "¿Qué tarea repetitiva de su día a día le dejarían a un asistente así?"
-- "¿Qué ventaja ven en que trabaje en su propio computador y no en internet?"
-- "¿Qué datos personales cuidarían antes de dejar que un asistente toque sus archivos?"
+1. **Mostrar la carpeta desordenada** → `01-carpeta-desordenada.png`.
+2. **Escribir la instrucción** y dejar que OpenCode explore y reorganice **en local** → `02-instruccion.png`.
+3. **Resultado de la IA (parte 1)**: qué hizo → `03-resultado-1.png`.
+4. **Resultado de la IA (parte 2)**: estructura final y decisiones → `04-resultado-2.png`.
+5. **Carpeta ordenada** (por materia + `informe.md`) → `05-carpetas-ordenadas.png`.
+6. **Pedir el informe en PDF con una gráfica** y mostrar la vista previa → `06-informe-pdf.png`.
+
+---
+
+## Mensajes clave
+
+- El chat te dice **cómo**; el **agente lo hace** (lee, mueve y crea archivos).
+- Todo ocurre **en tu computador** (privacidad y control).
+- **Tú revisas** lo que hace.
 
 ---
 
 ## Plan de respaldo (si algo falla)
 
-1. **Si OpenCode no responde:** muestra el **video grabado** de la misma demo.
-2. **Si se demora:** narra lo que está haciendo mientras carga (mantén la calma).
-3. **Si se acaba el tiempo:** muestra solo el resultado final del `resumen.md`.
-
----
-
-## Variante simple (sin terminal)
-
-Si prefieres algo más visual para el público, haz la demo con la **versión de
-escritorio** de OpenCode (interfaz gráfica), que se parece más a un chat y genera
-menos preguntas técnicas.
+1. **Si algo falla en vivo:** usa las capturas del carrusel (ya están hechas).
+2. **Si se demora:** narra lo que está haciendo mientras corre.
+3. **Si sobra tiempo:** abre también el `informe.pdf` generado.
 
 ---
 
 ## Checklist de validación F6-demo
 
-- [ ] ¿Usamos un archivo `.md` (fácil) o un documento tipo Word?
-- [ ] ¿Grabamos el video de respaldo de esta demo?
-- [ ] ¿La tarea de la demo (resumir notas) es la más clara para el público?
+- [ ] ¿Usamos la carpeta real `ejercicios/opencode/Estudio` o una copia?
+- [ ] ¿Mostramos también el `informe.pdf` con la gráfica?
+- [ ] ¿Las 6 capturas están conectadas al carrusel? (sí)

@@ -1,4 +1,4 @@
-# F4 — Guion: "IA de EEUU vs. IA de China" (8 min, pregrabado 📼)
+# F3 — Guion: "IA de EEUU vs. IA de China" (8 min, pregrabado 📼)
 
 > Bloque de contexto geopolítico, pero **sin política**: se explica como una
 > comparación práctica de "marcas y ecosistemas", pensando en qué le sirve al asociado.
@@ -98,7 +98,7 @@ y la confianza con los datos.
 
 ---
 
-## Checklist de validación F4
+## Checklist de validación F3
 
 - [ ] ¿El tono neutral funciona para tu audiencia?
 - [ ] ¿Las **4 diferencias** (ecosistema, costo, apertura, datos) son las correctas?

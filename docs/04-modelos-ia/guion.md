@@ -1,4 +1,4 @@
-# F3 — Guion: "¿Qué modelos existen y cuándo usarlos?" (10 min, pregrabado 📼)
+# F4 — Guion: "¿Qué modelos existen y cuándo usarlos?" (10 min, pregrabado 📼)
 
 > Bloque central. El público entiende que **no hay una sola IA**, sino muchas,
 > cada una buena en algo. Se organizan por **tipo de tarea**.
@@ -112,7 +112,7 @@ otro para imágenes, otro para voz, otro para datos… y elijo según la tarea".
 
 ---
 
-## Checklist de validación F3
+## Checklist de validación F4
 
 - [ ] ¿La analogía del **equipo de profesionales** te gusta?
 - [ ] ¿Las **6 familias** (texto, imagen, voz, video, datos, código) son las correctas?

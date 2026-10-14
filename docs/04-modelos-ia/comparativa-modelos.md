@@ -1,4 +1,4 @@
-# F3 — Comparativa de modelos de IA
+# F4 — Comparativa de modelos de IA
 
 > Fecha de referencia: **octubre de 2026**. Los nombres y versiones cambian rápido;
 > verifica antes de presentar. El objetivo no es memorizar, sino **entender para qué
@@ -81,7 +81,7 @@
 
 ---
 
-## Checklist de validación F3-datos
+## Checklist de validación F4-datos
 
 - [ ] ¿Actualizamos la fecha/versiones de los modelos antes de la presentación final?
 - [ ] ¿Dejamos el consejo de "cuidar datos sensibles" (clave en una entidad financiera)?

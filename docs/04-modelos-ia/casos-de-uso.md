@@ -1,4 +1,4 @@
-# F3 — Casos de uso para una cooperativa financiera
+# F4 — Casos de uso para una cooperativa financiera
 
 > Ejemplos concretos que conectan los modelos con el día a día de **Coomultiunion**.
 > Sirven para la sección "Para la cooperativa" del guion y para responder preguntas.
@@ -86,7 +86,7 @@
 
 ---
 
-## Checklist de validación F3-casos
+## Checklist de validación F4-casos
 
 - [ ] ¿Estos casos representan bien el trabajo real en Coomultiunion?
 - [ ] ¿Añadimos algún caso específico de tu área?

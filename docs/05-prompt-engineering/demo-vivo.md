@@ -19,10 +19,10 @@
 
 ### Paso 1 — El prompt malo (60 s)
 Escribe en la IA:
-> **"Háblame de la cooperativa."**
+> **"Escríbeme un mensaje de bienvenida para la cooperativa."**
 
 Deja que responda y comenta:
-> "Miren: es genérica, habla de cooperativas en general, podría ser de cualquier país.
+> "Miren: es larga y genérica, podría ser de cualquier empresa. No la puedo enviar tal cual.
 > No es útil para nosotros."
 
 ### Paso 2 — El prompt bueno (90 s)

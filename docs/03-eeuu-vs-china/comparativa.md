@@ -1,4 +1,4 @@
-# F4 — Comparativa: IA de EEUU vs. IA de China
+# F3 — Comparativa: IA de EEUU vs. IA de China
 
 > Material de apoyo para la diapositiva comparativa.
 > Tono **neutral**: el objetivo es informar y proteger datos, no tomar bando.
@@ -87,7 +87,7 @@ computador**, incluso sin internet. Esto es oro para la **privacidad**.
 
 ---
 
-## Checklist de validación F4-datos
+## Checklist de validación F3-datos
 
 - [ ] ¿El tono neutral te parece suficiente para no incomodar a nadie?
 - [ ] ¿Priorizamos el mensaje de **privacidad de datos**?

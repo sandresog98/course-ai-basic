@@ -91,7 +91,7 @@ El curso sigue una misma línea narrativa, del "asombro" a la "práctica":
 
 - 🎥 **En vivo:** Bienvenida, Prompt Engineering, OpenCode y Cierre.
 - 📼 **Pregrabado:** bloques 1, 2 y 3 (permiten edición, ritmo y subtítulos).
-- 🖼️ **Imagen sugerida:** cada bloque tiene su `prompts-imagenes.md` para SiliconFlow.
+- 🖼️ **Imagen sugerida:** cada bloque tiene su imagen en `imggen/prompts/imagenes_v2.md` (Leonardo, estilo 2.5D).
 - ⏱️ **Cronómetro:** ver `cronograma.md`.
 
 ---
