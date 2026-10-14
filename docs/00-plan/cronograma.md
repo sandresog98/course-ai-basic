@@ -15,7 +15,7 @@
 | 3 | 00:20 | 10 min | Modelos de IA | Mapa de modelos y cuándo usar cada uno | 📼 Pregrabado | `04-modelos-ia/` |
 | 4 | 00:30 | 15 min | Prompt Engineering | Técnicas + demo en vivo "malo vs bueno" | 🎥 En vivo | `05-prompt-engineering/` |
 | 5 | 00:45 | 10 min | OpenCode | IA local sobre tus archivos + demo | 🎥 En vivo | `06-herramientas-locales/` |
-| 6 | 00:55 | 5 min+ | Cierre y Q&A | Repaso, "90% con IA" y preguntas | 🎥 En vivo | `07-cierre/` |
+| 6 | 00:55 | 7 min+ | Cierre y Q&A | Repaso, "90% con IA", "No creas a ciegas" y preguntas | 🎥 En vivo | `07-cierre/` |
 
 **Total:** 60 min de contenido + Q&A abierto.
 

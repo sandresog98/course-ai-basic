@@ -32,6 +32,7 @@ El curso sigue una misma línea narrativa, del "asombro" a la "práctica":
 | 5 | *¿Cómo le hablo para que me entienda?* | Prompt Engineering: el arte de pedir bien |
 | 6 | *¿Y si no quiero subir mis datos a internet?* | Herramientas locales como OpenCode: la IA dentro de tu computador |
 | 7 | *¿Todo esto lo hiciste a mano?* | No: ~90% se apoyó en IA. Cierre y preguntas |
+| 8 | *¿Puedo creer todo lo que veo?* | No: con IA hay videos/fotos falsas (deepfakes). "No creas a ciegas: indaga" |
 
 ---
 
@@ -70,9 +71,10 @@ El curso sigue una misma línea narrativa, del "asombro" a la "práctica":
 - Demo en vivo: pedirle algo sencillo sobre un archivo real.
 - **Micro-pregunta:** "¿En qué tareas de la cooperativa les serviría una IA así?"
 
-### Bloque 6 — Cierre (5 min + Q&A abierto, en vivo 🎥)
+### Bloque 6 — Cierre (7 min + Q&A abierto, en vivo 🎥)
 - **Mensaje:** "Este mismo curso fue 90% construido con apoyo de IA. Ustedes ya vieron el resultado."
-- Repaso de 3 ideas fuerza.
+- Repaso de las 5 ideas fuerza.
+- **"No creas en nada… indaga":** con IA es fácil crear videos e imágenes **falsas** (deepfakes); verificar antes de creer y compartir.
 - Recursos para seguir aprendiendo (`../07-cierre/recursos.md`).
 - **Espacio grande de preguntas.**
 

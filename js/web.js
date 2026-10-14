@@ -293,11 +293,12 @@
     opencode: {
       title: "Demo · OpenCode (organizar una carpeta)",
       slides: [
-        { img: "assets/demos/opencode/01-carpeta-desordenada.png", caption: "Tengo una carpeta de estudio con archivos sueltos y desordenados." },
+        { img: "assets/demos/opencode/01-carpeta-desordenada.png", caption: "La carpeta «Estudio»: 32 archivos sueltos y desordenados." },
         { img: "assets/demos/opencode/02-instruccion.png", caption: "Le pido que la organice por materia y me haga un informe." },
-        { img: "assets/demos/opencode/03-organizando.png", caption: "OpenCode trabaja sobre tus archivos." },
-        { img: "assets/demos/opencode/04-carpetas-ordenadas.png", caption: "Carpetas ordenadas por materia, con nombres consistentes." },
-        { img: "assets/demos/opencode/05-informe.png", caption: "Y un informe con el resumen de lo que hay en cada carpeta." }
+        { img: "assets/demos/opencode/03-resultado-1.png", caption: "OpenCode revisa el contenido real y me cuenta qué hizo (1/2)." },
+        { img: "assets/demos/opencode/04-resultado-2.png", caption: "…y me muestra la estructura final y sus decisiones (2/2)." },
+        { img: "assets/demos/opencode/05-carpetas-ordenadas.png", caption: "Carpetas ordenadas por materia + el informe.md." },
+        { img: "assets/demos/opencode/06-informe-pdf.png", caption: "Le pido el informe en PDF con una gráfica… y me lo muestra." }
       ]
     },
     imagen: {

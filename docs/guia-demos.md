@@ -20,18 +20,18 @@
 
 ## Demo 1 — Prompt Engineering ("pedir bien")
 
-**Objetivo:** mostrar en vivo cómo el mismo pedido, bien formulado, da mejores resultados.
-**Herramienta:** un chat de IA (ChatGPT / Gemini / Claude).
+**Objetivo:** mostrar que, con la **MISMA tarea**, un prompt bien hecho da un mejor resultado.
+**Herramienta:** un chat de IA (DeepSeek / ChatGPT / Gemini / Claude).
 
 | # | Archivo sugerido | Qué debe mostrar | Texto (descripción del slide) |
 |---|---|---|---|
-| 1 | `prompt/01-prompt-flojo.png` | El prompt **"Háblame de la cooperativa."** y su respuesta **genérica**. | **Un prompt vago da una respuesta vaga.** |
-| 2 | `prompt/02-prompt-bueno.png` | El prompt con **rol + tarea + contexto + formato** y su respuesta mejor. | **Con rol, tarea, contexto y formato, la respuesta mejora.** |
-| 3 | `prompt/03-iteracion.png` | La frase *"Ahora hazlo más corto y más emotivo"* y el nuevo resultado. | **Iterar es parte del proceso: corriges y afinas.** |
-| 4 | `prompt/04-formato.png` | *"Convierte esto en una tabla"* y la tabla resultante. | **Puedes pedir el formato: tabla, lista, correo…** |
+| 1 | `prompt/01-prompt-flojo.png` | El prompt **"Escríbeme un mensaje de bienvenida para la cooperativa."** y su respuesta **larga y genérica**. | **Un prompt vago da una respuesta vaga.** |
+| 2 | `prompt/02-prompt-bueno.png` | El prompt con **rol + tarea + contexto + formato** y su respuesta (2 versiones, 4 líneas). | **Con rol, tarea, contexto y formato, la respuesta mejora.** |
+| 3 | `prompt/03-iteracion.png` | La frase *"Ahora hazlo más corto y más emotivo."* y el nuevo resultado. | **Iterar es parte del proceso: corriges y afinas.** |
+| 4 | `prompt/04-formato.png` | *"Convierte la última versión en una tabla: mensaje / canal / momento."* y la tabla. | **Puedes pedir el formato: tabla, lista, correo…** |
 
-**Prompt bueno de referencia (para la captura 2):**
-> "Actúa como comunicador de una cooperativa financiera. Escríbeme un mensaje de bienvenida para asociados nuevos, máximo 4 líneas, tono cálido y sencillo, sin tecnicismos. Dame 2 versiones."
+**Prompt bueno de referencia (captura 2):**
+> "Actúa como comunicador de una cooperativa financiera colombiana. Escríbeme un mensaje de bienvenida para asociados nuevos, máximo 4 líneas, tono cálido y sencillo, sin tecnicismos. Dame 2 versiones."
 
 ---
 
@@ -57,13 +57,14 @@ Estudio/
 **Instrucción de referencia:**
 > "Organiza la carpeta Estudio en subcarpetas por materia (Cálculo, Física, Programación, Química, Estadística), renombra los archivos de forma consistente y crea un informe.md con el listado de lo que hiciste y qué hay en cada carpeta."
 
-| # | Archivo sugerido | Qué debe mostrar | Texto (descripción del slide) |
+| # | Archivo | Qué muestra | Texto (descripción del slide) |
 |---|---|---|---|
-| 1 | `opencode/01-carpeta-desordenada.png` | La carpeta **"Estudio"** con archivos sueltos y desordenados. | **Tengo una carpeta de estudio con archivos sueltos y desordenados.** |
-| 2 | `opencode/02-instruccion.png` | La **instrucción** escrita en OpenCode. | **Le pido que la organice por materia y me haga un informe.** |
-| 3 | `opencode/03-organizando.png` | OpenCode **moviendo/creando** archivos y carpetas. | **OpenCode trabaja sobre tus archivos.** |
-| 4 | `opencode/04-carpetas-ordenadas.png` | La carpeta ya **organizada por materia**. | **Carpetas ordenadas por materia, con nombres consistentes.** |
-| 5 | `opencode/05-informe.png` | El archivo **`informe.md`** con el resumen generado. | **Y un informe con el resumen de lo que hay en cada carpeta.** |
+| 1 | `opencode/01-carpeta-desordenada.png` | La carpeta **"Estudio"** con 32 archivos sueltos y desordenados. | **La carpeta "Estudio": 32 archivos sueltos y desordenados.** |
+| 2 | `opencode/02-instruccion.png` | La **instrucción** y cómo OpenCode explora y reorganiza **en local**. | **Le pido que la organice por materia y me haga un informe.** |
+| 3 | `opencode/03-resultado-1.png` | La **respuesta de la IA** (parte 1): qué hizo. | **OpenCode revisa el contenido real y me cuenta qué hizo (1/2).** |
+| 4 | `opencode/04-resultado-2.png` | La **respuesta de la IA** (parte 2): estructura final y decisiones. | **…y me muestra la estructura final y sus decisiones (2/2).** |
+| 5 | `opencode/05-carpetas-ordenadas.png` | La carpeta **ya organizada** por materia + `informe.md`. | **Carpetas ordenadas por materia + el informe.md.** |
+| 6 | `opencode/06-informe-pdf.png` | El pedido del **informe en PDF con gráfica** y su **vista previa**. | **Le pido el informe en PDF con una gráfica… y me lo muestra.** |
 
 ---
 

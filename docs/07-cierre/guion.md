@@ -1,4 +1,4 @@
-# F7 — Guion: Cierre y Q&A (5 min + preguntas, en vivo 🎥)
+# F7 — Guion: Cierre y Q&A (~6–7 min + preguntas, en vivo 🎥)
 
 > Último bloque. Se **repasa**, se lanza el mensaje potente ("esto se hizo con IA")
 > y se abre el **espacio grande de preguntas**.
@@ -22,9 +22,10 @@ fue construido con IA. Cerrar con un Q&A amplio.
 |---|---|---|
 | 0:00 | Repaso | Las 5 ideas fuerza en una diapositiva |
 | 1:30 | El gran mensaje | "Este curso se hizo ~90% con IA" |
-| 3:00 | Primeros pasos | Qué puede hacer cada uno mañana |
-| 4:00 | Recursos | Dónde seguir aprendiendo (`recursos.md`) |
-| 4:30 | Q&A | Espacio grande de preguntas (`faq.md`) |
+| 2:45 | Primeros pasos | Qué puede hacer cada uno mañana |
+| 3:30 | **No creas en nada, indaga** | Deepfakes y cómo verificar |
+| 5:00 | Recursos | Dónde seguir aprendiendo (`recursos.md`) |
+| 5:30 | Q&A | Espacio grande de preguntas (`faq.md`) |
 
 ---
 
@@ -52,7 +53,7 @@ fue construido con IA. Cerrar con un Q&A amplio.
 
 *Apoyo visual: `prompts-imagenes.md`, imagen "hecho con IA".*
 
-### Primeros pasos (3:00–4:00)
+### Primeros pasos (2:45–3:30)
 > "¿Qué pueden hacer mañana, sin ser expertos?
 >
 > 1. **Elijan una herramienta** (ChatGPT, Gemini, la que prefieran).
@@ -61,12 +62,33 @@ fue construido con IA. Cerrar con un Q&A amplio.
 > 4. **Iteren**: pídanle mejorarla una vez.
 > 5. **Mantengan las reglas**: verificar siempre y cuidar los datos."
 
-### Recursos (4:00–4:30)
+### "No creas en nada… indaga" (3:30–5:00)
+> "Una última cosa, y quizás la más importante de todo el curso.
+>
+> Con IA hoy es **muy fácil** crear videos, audios e imágenes **falsas** que parecen
+> reales. Por ejemplo, circulan videos falsos de políticos —de un lado y del otro—
+> diciendo cosas que nunca dijeron: uno de **Iván Cepeda** apoyando 'iglesias
+> satánicas' y uno de **Abelardo de la Espriella** apoyando convertir a Colombia al
+> judaísmo. **Los dos son falsos.**
+>
+> No son de un solo lado: buscan **enfadar y confrontar**, dividirnos. Por eso,
+> antes de creer o compartir: **indaga**.
+>
+> 1. Si algo te indigna de inmediato, **desconfía**: el enojo es el anzuelo.
+> 2. Busca la **fuente original**.
+> 3. Verifica en medios serios o **verificadores** (ColombiaCheck, AFP Factual…).
+> 4. No reenvíes 'por si acaso'.
+>
+> Usen la IA con confianza… pero **no crean a ciegas**."
+
+*Apoyo visual: sección "No creas a ciegas" de la web.*
+
+### Recursos (5:00–5:30)
 > "Les dejo un documento con enlaces y trucos para seguir por su cuenta."
 
 *Repartir o mostrar `recursos.md`.*
 
-### Q&A (4:30 en adelante)
+### Q&A (5:30 en adelante)
 > "Y ahora sí: **el espacio es de ustedes.** ¿Qué dudas quedaron? ¿Qué quisieran
 > probar? No hay pregunta tonta; todos empezamos en el mismo punto."
 

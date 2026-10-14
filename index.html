@@ -4,10 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>IA sin misterios — Experiencia interactiva</title>
+  <link rel="icon" type="image/png" href="assets/logos/multi-icon.png">
+  <link rel="apple-touch-icon" href="assets/logos/multi-icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/web.css?v=22">
+  <link rel="stylesheet" href="css/web.css?v=26">
 </head>
 <body>
 
@@ -216,6 +218,14 @@
         <div class="chips">
           <span>Texto</span><span>Imagen</span><span>Voz</span><span>Video</span><span>Datos</span><span>Código</span>
         </div>
+        <div class="app-logos" data-animate>
+          <span><img src="assets/logos/apps/openai.png" alt="ChatGPT"><em>GPT</em></span>
+          <span><img src="assets/logos/apps/gemini.png" alt="Gemini"><em>Gemini</em></span>
+          <span><img src="assets/logos/apps/claude.png" alt="Claude"><em>Claude</em></span>
+          <span><img src="assets/logos/apps/llama.png" alt="Llama"><em>Llama</em></span>
+          <span><img src="assets/logos/apps/deepseek.png" alt="DeepSeek"><em>DeepSeek</em></span>
+          <span><img src="assets/logos/apps/qwen.png" alt="Qwen"><em>Qwen</em></span>
+        </div>
         <ul class="ticks">
           <li><strong>Texto:</strong> GPT, Gemini, Claude, Llama</li>
           <li><strong>Imagen:</strong> FLUX, Stable Diffusion, Ideogram (bueno con texto dentro)</li>
@@ -324,7 +334,24 @@
       </figure>
     </section>
 
-    <section class="section hero end" id="s21" data-nav="Gracias">
+    <section class="section split reverse dark" id="s21" data-nav="No creas a ciegas">
+      <figure class="split-media parallax" data-animate>
+        <img src="assets/imagenes/f07-m5-no-creas-a-ciegas.png" alt="Engaño con IA: el perfil que ves vs. la realidad">
+      </figure>
+      <div class="split-text" data-animate style="--d:.1s">
+        <span class="kicker">Antes de despedirnos</span>
+        <h2>No creas en nada… indaga</h2>
+        <p>Con IA es muy fácil crear <strong>videos e imágenes falsas</strong> que parecen reales. Si no verificamos, nos engañan… y nos dividen.</p>
+        <ul class="ticks">
+          <li><strong>Ejemplo (izquierda):</strong> video falso de <strong>Iván Cepeda</strong> sobre “iglesias satánicas”.</li>
+          <li><strong>Ejemplo (derecha):</strong> video falso de <strong>Abelardo de la Espriella</strong> sobre convertir a Colombia al judaísmo.</li>
+          <li>Los dos son <strong>falsos</strong>: buscan enfadar y confrontar. Ante algo impactante, <strong>indaga</strong> (fuente original y verificadores).</li>
+        </ul>
+        <p class="warn-close">Usa la IA con confianza… pero <em>no creas a ciegas</em>.</p>
+      </div>
+    </section>
+
+    <section class="section hero end" id="s22" data-nav="Gracias">
       <div class="hero-bg parallax" style="background-image:url('assets/imagenes/f01-m4-multi-v2.png')"></div>
       <div class="hero-veil strong"></div>
       <div class="hero-content">
@@ -341,6 +368,6 @@
     <span id="progressText">0%</span>
   </footer>
 
-  <script src="js/web.js?v=22"></script>
+  <script src="js/web.js?v=25"></script>
 </body>
 </html>

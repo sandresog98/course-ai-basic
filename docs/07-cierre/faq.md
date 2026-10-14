@@ -85,6 +85,26 @@ Es un ejemplo de "agente".
 
 ---
 
+## Sobre información falsa (deepfakes)
+
+**¿Es verdad que pueden falsificar un video o la voz de alguien?**
+Sí. Con IA se pueden crear videos, audios e imágenes **falsas** (deepfakes) que parecen
+reales, incluso de personas conocidas. Circulan videos falsos de políticos de distintos
+partidos diciendo cosas que nunca dijeron. Regla de oro: ante algo **impactante**,
+**no lo creas ni lo compartas sin verificar** la fuente.
+
+**¿Cómo verifico si un video o imagen es falso?**
+- Busca la **fuente original**: ¿quién lo publicó primero?
+- Revisa en **verificadores**: ColombiaCheck, AFP Factual.
+- Usa **búsqueda inversa de imagen** (Google Lens).
+- Desconfía si te **indigna** mucho o te pide **reenviar rápido**.
+
+**¿Entonces la IA es peligrosa?**
+La herramienta no es buena ni mala; el uso sí. Sirve para crear y también para engañar.
+Por eso lo más importante no es la IA, sino **tu criterio**: verificar antes de creer.
+
+---
+
 ## Cierre
 
 **¿Todo lo del curso fue hecho con IA?**

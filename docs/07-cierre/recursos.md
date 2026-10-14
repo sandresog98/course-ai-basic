@@ -51,6 +51,15 @@ Si te falta información, pregúntame antes de responder.
 2. **No subas datos de asociados** a herramientas públicas.
 3. **Tú decides**: la IA propone, tú apruebas.
 4. **Cuida los datos personales**: cédulas, cuentas, información financiera.
+5. **Verifica también lo que ves**: videos, audios e imágenes pueden ser **falsos** (deepfakes).
+
+**Si ves algo impactante, no lo compartas sin verificar:**
+- Desconfía del enojo: si te indigna de inmediato, es el anzuelo.
+- Busca la **fuente original**.
+- Verificadores: [ColombiaCheck](https://colombiacheck.com) · [AFP Factual](https://factual.afp.com)
+- Búsqueda inversa de imagen (Google Lens).
+
+> **No creas en nada… indaga.**
 
 ---
 
