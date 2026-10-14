@@ -1,0 +1,346 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IA sin misterios — Experiencia interactiva</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/web.css?v=22">
+</head>
+<body>
+
+  <!-- Barra de progreso -->
+  <div class="progress" aria-hidden="true"><span id="progressBar"></span></div>
+
+  <!-- Navegación lateral por puntos -->
+  <nav class="dots" id="dots" aria-label="Secciones"></nav>
+
+  <!-- Navegación inferior (solo móvil) -->
+  <nav class="mobile-nav" aria-label="Secciones (móvil)">
+    <button class="mobile-nav-btn" id="mobileNavBtn">☰ Secciones</button>
+  </nav>
+  <div class="mobile-sheet" id="mobileSheet" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <span class="brand">
+      <img class="logo" src="assets/logos/coomultiunion-blue.png" alt="Coomultiunion">
+      <span class="brand-title">IA sin misterios</span>
+    </span>
+    <span class="hint">Desliza o usa → / ↓</span>
+  </header>
+
+  <main>
+
+    <!-- 1 · HERO -->
+    <section class="hero section" id="s0" data-nav="Inicio">
+      <div class="hero-bg parallax" style="background-image:url('assets/imagenes/f01-m1-portada-bienvenida.png')"></div>
+      <div class="hero-veil"></div>
+      <div class="hero-content">
+        <span class="badge" data-animate>Curso · 60 minutos</span>
+        <h1 data-animate style="--d:.08s">Inteligencia Artificial<br><em>sin misterios</em></h1>
+        <p data-animate style="--d:.16s">Guía práctica para asociados de Coomultiunion</p>
+        <p class="author" data-animate style="--d:.24s">Andrés Felipe Olaya</p>
+      </div>
+      <div class="scroll-cue" aria-hidden="true"></div>
+    </section>
+
+    <!-- 2 · QUIÉN HABLA -->
+    <section class="section split" id="s1" data-nav="Quién habla">
+      <div class="split-text" data-animate>
+        <span class="kicker">Bienvenida</span>
+        <h2>Quién les habla</h2>
+        <ul class="ticks">
+          <li><strong>Ingeniero de Sistemas</strong>, especialista en Analítica de Datos</li>
+          <li>Asociado a <strong>Coomultiunion desde los 17 años</strong></li>
+          <li>Hoy en <strong>Mercado Libre</strong>; antes <strong>Lulo Bank</strong> y <strong>Rappi</strong></li>
+          <li>Acompañé el desarrollo de <strong>MULTI</strong> y ahora su <strong>versión 2</strong></li>
+        </ul>
+      </div>
+      <figure class="split-media parallax" data-animate style="--d:.12s">
+        <img src="assets/imagenes/f01-m2-ficha-ponente.png" alt="Presentación del ponente">
+      </figure>
+    </section>
+
+    <!-- 3 · COOPERATIVA -->
+    <section class="section split reverse tint" id="s2" data-nav="La cooperativa">
+      <figure class="split-media parallax" data-animate>
+        <img src="assets/imagenes/f01-m4-multi-v2.png" alt="MULTI v2">
+      </figure>
+      <div class="split-text" data-animate style="--d:.12s">
+        <span class="kicker">Nuestra casa</span>
+        <h2>Coomultiunion</h2>
+        <ul class="ticks">
+          <li>Cooperativa <strong>multiactiva</strong>, del <strong>sector solidario</strong></li>
+          <li>Más de <strong>400 asociados</strong> y sus familias</li>
+          <li>Crédito, inversión, convenios, salud, recreación y bienestar</li>
+          <li><strong>MULTI v2</strong>: la app que centraliza la información</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- 4 · AGENDA -->
+    <section class="section center" id="s3" data-nav="Agenda">
+      <span class="kicker" data-animate>Lo que veremos hoy</span>
+      <h2 data-animate style="--d:.06s">Cinco ideas, una hora</h2>
+      <figure class="agenda-media" data-animate style="--d:.10s">
+        <img src="assets/imagenes/f01-m1-portada-bienvenida.png" alt="Asociados usando IA">
+      </figure>
+      <div class="cards" id="agenda">
+        <article class="card" data-animate style="--d:.10s"><b>1</b><h3>IA ≠ ChatGPT</h3><p>La IA es más grande que una sola app.</p></article>
+        <article class="card" data-animate style="--d:.16s"><b>2</b><h3>EEUU vs China</h3><p>Dos ecosistemas, no una pelea.</p></article>
+        <article class="card" data-animate style="--d:.22s"><b>3</b><h3>Modelos</h3><p>Cuáles existen y cuándo usar cada uno.</p></article>
+        <article class="card" data-animate style="--d:.28s"><b>4</b><h3>Pedir bien</h3><p>El arte del prompt engineering.</p></article>
+        <article class="card" data-animate style="--d:.34s"><b>5</b><h3>OpenCode</h3><p>IA local sobre tus archivos.</p></article>
+      </div>
+    </section>
+
+    <!-- SECCIÓN 1 -->
+    <section class="divider" id="s4" data-nav="1 · IA ≠ ChatGPT">
+      <div class="divider-media"><img src="assets/imagenes/f02-m4-puerta-muchas-habitaciones.png" alt=""></div>
+      <span class="num" data-animate>1</span>
+      <h2 data-animate style="--d:.08s">La IA no es ChatGPT</h2>
+      <p data-animate style="--d:.16s">ChatGPT es apenas una ventana</p>
+    </section>
+
+    <section class="section split" id="s5">
+      <div class="split-text" data-animate>
+        <h3>La IA es el motor; ChatGPT es una puerta</h3>
+        <ul class="ticks">
+          <li>La IA es un <strong>campo enorme</strong>: texto, imagen, voz, datos…</li>
+          <li><strong>ChatGPT</strong> es solo <strong>una aplicación</strong> para conversar</li>
+          <li>Como la <strong>electricidad</strong> y <strong>un bombillo</strong>: uno no es todo lo otro</li>
+        </ul>
+      </div>
+      <figure class="split-media parallax" data-animate style="--d:.12s">
+        <img src="assets/imagenes/f02-m1-iceberg.png" alt="Iceberg de la IA">
+      </figure>
+    </section>
+
+    <section class="section split reverse" id="s6">
+      <figure class="split-media parallax" data-animate>
+        <img src="assets/imagenes/f02-m2-cuatro-capas.png" alt="Capas de la IA">
+      </figure>
+      <div class="split-text" data-animate style="--d:.12s">
+        <h3>Las 4 capas</h3>
+        <ol class="steps">
+          <li>Inteligencia artificial</li>
+          <li>Machine Learning <span>(aprende de ejemplos)</span></li>
+          <li>Modelo de lenguaje <span>(entiende y escribe)</span></li>
+          <li>Aplicación <span>(ChatGPT, Gemini…)</span></li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="section split" id="s7">
+      <div class="split-text" data-animate>
+        <h3>La IA que ya usamos sin saberlo</h3>
+        <ul class="ticks">
+          <li>Netflix y YouTube <strong>recomiendan</strong></li>
+          <li>Waze <strong>recalcula</strong> la ruta</li>
+          <li>El banco <strong>detecta</strong> movimientos raros</li>
+          <li>WhatsApp <strong>transcribe</strong> audios</li>
+        </ul>
+      </div>
+      <figure class="split-media parallax" data-animate style="--d:.12s">
+        <img src="assets/imagenes/f02-m3-collage-dia-a-dia.png" alt="IA del día a día">
+      </figure>
+    </section>
+
+    <!-- SECCIÓN 2 -->
+    <section class="divider" id="s8" data-nav="2 · EEUU vs China">
+      <div class="divider-media"><img src="assets/imagenes/f03-m0-divisor-eeuu-china.png" alt=""></div>
+      <span class="num" data-animate>2</span>
+      <h2 data-animate style="--d:.08s">IA de EEUU vs China</h2>
+      <p data-animate style="--d:.16s">No es pelea, es un menú</p>
+    </section>
+
+    <section class="section split" id="s9">
+      <div class="split-text" data-animate>
+        <h3>Dos ecosistemas que funcionan muy bien</h3>
+        <ul class="ticks">
+          <li>EEUU: <strong>OpenAI, Google, Anthropic, Meta</strong></li>
+          <li>China: <strong>DeepSeek, Alibaba, Moonshot, ByteDance</strong></li>
+          <li>Cada uno con <strong>ventajas</strong>: costo, apertura, ecosistema</li>
+        </ul>
+      </div>
+      <figure class="split-media parallax" data-animate style="--d:.12s">
+        <img src="assets/imagenes/f03-m1-balanza.png" alt="Balanza EEUU vs China">
+      </figure>
+    </section>
+
+    <section class="section split reverse" id="s10">
+      <figure class="split-media parallax" data-animate>
+        <img src="assets/imagenes/f03-m3-candado-datos.png" alt="Protección de datos">
+      </figure>
+      <div class="split-text" data-animate style="--d:.12s">
+        <h3>El punto clave: tus datos</h3>
+        <ul class="ticks">
+          <li>La pregunta no es <strong>cuál es mejor</strong></li>
+          <li>Es <strong>dónde quedan los datos</strong></li>
+          <li>Datos de asociados → <strong>nunca</strong> a herramientas públicas</li>
+          <li>Mejor: <strong>corporativo o local</strong></li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- SECCIÓN 3 -->
+    <section class="divider" id="s11" data-nav="3 · Modelos">
+      <div class="divider-media"><img src="assets/imagenes/f04-m0-divisor-modelos.png" alt=""></div>
+      <span class="num" data-animate>3</span>
+      <h2 data-animate style="--d:.08s">Modelos de IA</h2>
+      <p data-animate style="--d:.16s">Un modelo para cada tarea</p>
+    </section>
+
+    <section class="section split" id="s12">
+      <div class="split-text" data-animate>
+        <h3>No hay un modelo para todo</h3>
+        <ul class="ticks">
+          <li>Uno para <strong>escribir</strong>, otro para <strong>imagen</strong>, otro para <strong>voz</strong>…</li>
+          <li>Como un <strong>equipo de profesionales</strong></li>
+          <li class="highlight">Primero la tarea, después el modelo</li>
+        </ul>
+      </div>
+      <figure class="split-media parallax" data-animate style="--d:.12s">
+        <img src="assets/imagenes/f04-m1-equipo-profesionales.png" alt="Equipo de profesionales">
+      </figure>
+    </section>
+
+    <section class="section split reverse" id="s13">
+      <figure class="split-media parallax" data-animate>
+        <img src="assets/imagenes/f04-m2-mapa-seis-familias.png" alt="Mapa de familias de modelos">
+      </figure>
+      <div class="split-text" data-animate style="--d:.12s">
+        <h3>Las 6 familias y sus especialistas</h3>
+        <div class="chips">
+          <span>Texto</span><span>Imagen</span><span>Voz</span><span>Video</span><span>Datos</span><span>Código</span>
+        </div>
+        <ul class="ticks">
+          <li><strong>Texto:</strong> GPT, Gemini, Claude, Llama</li>
+          <li><strong>Imagen:</strong> FLUX, Stable Diffusion, Ideogram (bueno con texto dentro)</li>
+          <li><strong>Voz:</strong> Whisper (transcribir), ElevenLabs (voz natural)</li>
+          <li><strong>Video:</strong> Sora, Runway, Kling, Seedance</li>
+          <li><strong>Datos:</strong> análisis con GPT / Gemini / Claude</li>
+          <li><strong>Código:</strong> Claude, DeepSeek Coder, Qwen Coder</li>
+        </ul>
+        <p class="link-note">
+          ¿Cuál es el mejor modelo hoy? Ranking actualizado por rama:
+          <a href="https://artificialanalysis.ai/es#intelligence" target="_blank" rel="noopener">artificialanalysis.ai/es#intelligence</a>
+        </p>
+      </div>
+    </section>
+
+    <!-- SECCIÓN 4 -->
+    <section class="divider" id="s14" data-nav="4 · Pedir bien">
+      <div class="divider-media"><img src="assets/imagenes/f05-m0-divisor-pedir-bien.png" alt=""></div>
+      <span class="num" data-animate>4</span>
+      <h2 data-animate style="--d:.08s">Pedir bien</h2>
+      <p data-animate style="--d:.16s">Prompt Engineering</p>
+    </section>
+
+    <section class="section split" id="s15">
+      <div class="split-text" data-animate>
+        <h3>La receta para pedir bien</h3>
+        <ol class="steps big">
+          <li><b>Rol</b> <span>¿quién debe ser?</span></li>
+          <li><b>Tarea</b> <span>¿qué debe hacer?</span></li>
+          <li><b>Contexto</b> <span>¿para quién y por qué?</span></li>
+          <li><b>Formato</b> <span>¿cómo lo quiero?</span></li>
+          <li><b>Ejemplo</b> <span>muéstrale un modelo</span></li>
+        </ol>
+      </div>
+      <figure class="split-media parallax" data-animate style="--d:.12s">
+        <img src="assets/imagenes/f05-m2-receta-cinco-pasos.png" alt="Receta de 5 pasos">
+      </figure>
+    </section>
+
+    <section class="section center media-section" id="s16">
+      <div class="divider-media"><img src="assets/imagenes/f05-m9-frustracion.png" alt=""></div>
+      <div class="big-quote" data-animate>
+        <p>Si la IA responde mal, probablemente <em>le pediste mal</em>.</p>
+        <p class="sub">No es magia: es una conversación.</p>
+      </div>
+      <div class="demo-actions" data-animate style="--d:.12s">
+        <button class="demo-btn" data-demo="prompt">▶ Ver demo · texto</button>
+        <button class="demo-btn secondary" data-demo="imagen">▶ Ver demo · imagen</button>
+      </div>
+    </section>
+
+    <!-- SECCIÓN 5 -->
+    <section class="divider" id="s17" data-nav="5 · OpenCode">
+      <div class="divider-media"><img src="assets/imagenes/f06-m2-ia-en-tu-computador.png" alt=""></div>
+      <span class="num" data-animate>5</span>
+      <h2 data-animate style="--d:.08s">IA en tu computador</h2>
+      <p data-animate style="--d:.16s">Herramientas locales: OpenCode</p>
+    </section>
+
+    <section class="section split" id="s18">
+      <div class="split-text" data-animate>
+        <h3>No toda la IA vive en internet</h3>
+        <ul class="ticks">
+          <li><strong>Nube</strong> (ChatGPT): cómoda, pero fuera de tu equipo</li>
+          <li><strong>Local</strong> (OpenCode): corre en <strong>tu computador</strong></li>
+          <li>Trabaja <strong>sobre tus archivos</strong>, con más control</li>
+        </ul>
+        <button class="demo-btn" data-demo="opencode" style="margin-top:1.2rem">▶ Ver demo</button>
+      </div>
+      <figure class="split-media parallax" data-animate style="--d:.12s">
+        <img src="assets/imagenes/f06-m3-chat-vs-agente.png" alt="Chat vs agente">
+      </figure>
+    </section>
+
+    <!-- CIERRE -->
+    <section class="section split tint" id="s19" data-nav="Para llevar">
+      <div class="split-text" data-animate>
+        <span class="kicker">Para llevar</span>
+        <h2>Las 5 ideas del curso</h2>
+        <div class="ideas">
+          <div class="idea" data-animate style="--d:.10s"><span>1</span> La IA <strong>no es</strong> ChatGPT</div>
+          <div class="idea" data-animate style="--d:.16s"><span>2</span> Hay <strong>muchos modelos</strong></div>
+          <div class="idea" data-animate style="--d:.22s"><span>3</span> EEUU vs China: <strong>dónde quedan tus datos</strong></div>
+          <div class="idea" data-animate style="--d:.28s"><span>4</span> <strong>Pedir bien = obtener bien</strong></div>
+          <div class="idea" data-animate style="--d:.34s"><span>5</span> La IA <strong>también vive en tu computador</strong></div>
+        </div>
+      </div>
+      <figure class="split-media parallax" data-animate style="--d:.12s">
+        <img src="assets/imagenes/f07-m2-repaso-ideas.png" alt="Repaso de ideas">
+      </figure>
+    </section>
+
+    <section class="section split" id="s20" data-nav="La confesión">
+      <div class="split-text" data-animate>
+        <span class="kicker">Y ahora…</span>
+        <h2>La confesión</h2>
+        <p>Este curso —guion, ideas, imágenes y diapositivas— se construyó con apoyo de IA.</p>
+        <p class="small">Las <strong>decisiones y el criterio</strong> fueron míos. La IA es un <strong>martillo muy bueno</strong>: necesita una mano que sepa dónde golpear.</p>
+        <div class="stat" data-animate style="--d:.12s">
+          <div class="stat-num" data-count="90">0</div>
+          <div class="stat-label">% construido<br>con IA</div>
+        </div>
+      </div>
+      <figure class="split-media parallax" data-animate style="--d:.12s">
+        <img src="assets/imagenes/f07-m1-hecho-con-ia.png" alt="Hecho con IA">
+      </figure>
+    </section>
+
+    <section class="section hero end" id="s21" data-nav="Gracias">
+      <div class="hero-bg parallax" style="background-image:url('assets/imagenes/f01-m4-multi-v2.png')"></div>
+      <div class="hero-veil strong"></div>
+      <div class="hero-content">
+        <h1 data-animate>¡Gracias!</h1>
+        <p data-animate style="--d:.1s">Ahora te toca a ti probar</p>
+        <p class="author" data-animate style="--d:.18s">Preguntas y respuestas</p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <span>Inteligencia Artificial sin misterios · Coomultiunion</span>
+    <span id="progressText">0%</span>
+  </footer>
+
+  <script src="js/web.js?v=22"></script>
+</body>
+</html>
