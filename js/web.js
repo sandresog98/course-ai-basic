@@ -284,10 +284,10 @@
     prompt: {
       title: "Demo · Pedir bien (Prompt Engineering)",
       slides: [
-        { img: "assets/demos/prompt/01-prompt-flojo.png", caption: "Un prompt vago da una respuesta vaga." },
-        { img: "assets/demos/prompt/02-prompt-bueno.png", caption: "Con rol, tarea, contexto y formato, la respuesta mejora." },
-        { img: "assets/demos/prompt/03-iteracion.png", caption: "Iterar es parte del proceso: corriges y afinas." },
-        { img: "assets/demos/prompt/04-formato.png", caption: "Puedes pedir el formato: tabla, lista, correo…" }
+        { img: "assets/demos/prompt/01-prompt-flojo.png", caption: "Prompt flojo: «escríbeme un mensaje de bienvenida». Sale un correo largo, genérico y con huecos tipo [Nombre]." },
+        { img: "assets/demos/prompt/02-prompt-bueno.png", caption: "Prompt bueno: rol, extensión, tono y formato. Salen dos versiones cortas y usables." },
+        { img: "assets/demos/prompt/03-iteracion.png", caption: "Iterar: «hazlo más corto», «más formal». No se empieza de cero, se corrige." },
+        { img: "assets/demos/prompt/04-formato.png", caption: "También puedes pedir el formato: tabla, lista, correo…" }
       ]
     },
     opencode: {
@@ -304,7 +304,7 @@
     imagen: {
       title: "Demo · Prompt de imagen",
       slides: [
-        { img: "assets/demos/imagen/01-prompt-flojo.png", caption: "Un prompt de imagen vago da resultados genéricos." },
+        { img: "assets/demos/imagen/01-prompt-flojo.png", caption: "Prompt vago: «hazme una imagen sobre IA». Bonita, pero no elegiste estilo ni formato." },
         { img: "assets/demos/imagen/02-prompt-bueno.png", caption: "Con detalle (qué, estilo, luz y formato) cambia todo." }
       ]
     }

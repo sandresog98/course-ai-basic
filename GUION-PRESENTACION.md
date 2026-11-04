@@ -154,7 +154,7 @@
 
 > "Y con eso claro, **¿por dónde empezamos?** La buena noticia es que no hay que pagar para probar:
 > **ChatGPT y Gemini** tienen versión gratis, con límites; **DeepSeek y Qwen** son gratis y muy
-> económicos. Mi consejo: **empiecen por lo gratis** y paguen solo cuando ya sepan qué necesitan.
+> económicos en su versión paga. Mi consejo: **empiecen por lo gratis** y paguen solo cuando ya sepan qué necesitan.
 > La regla es simple: **probar antes de comprar**."
 
 **Micro-pregunta:** *"¿Qué valoran más: el precio, la privacidad o la calidad?"*
@@ -170,7 +170,7 @@
 
 🎞️ **Pasa a:** "No hay un modelo para todo" (equipo de profesionales).
 
-> "Piensen en los modelos como un **equipo de profesionales**: hay **redactores** (texto), **ilustradores**
+> "Piensen en los modelos como un **equipo de profesionales**: hay **escritores** (texto), **ilustradores**
 > (imagen), **traductores/transcriptores** (voz), **analistas** (datos) y **programadores** (código).
 > Todos son 'IA', pero cada uno tiene su especialidad."
 
@@ -196,30 +196,44 @@
 
 🎞️ **Pasa a:** "4 · Pedir bien" (divisor).
 
-> "Miren estas dos respuestas de la misma IA, para **la misma tarea**. En una pedí algo flojo; en la
-> otra pedí bien. Miren la diferencia. ¿Qué cambió? No la IA: **cómo le pedí**. A eso le llamamos
-> *prompt engineering*."
+> "Antes de arrancar, una pregunta: ¿por qué a unas personas la IA les sirve y a otras no?
+> No es suerte. **Miren esto.**"
+
+🎞️ **Pasa a:** "Dos prompts, dos resultados" (la comparación, en pantalla).
+
+> "Estas son dos respuestas de **la misma IA**, para **la misma tarea**: un mensaje de bienvenida
+> para la cooperativa. En la primera pedí algo flojo: sale un correo largo, genérico y con huecos
+> tipo '[nombre del socio]'. En la segunda pedí bien: **dos versiones cortas**, en tono cálido y
+> listas para usar. **¿Qué cambió? No la IA: cómo le pedí.** A eso le llamamos *prompt engineering*."
+
+**Micro-pregunta (aquí, antes de la receta):** *"¿Qué le faltó al primer prompt?"*
 
 🎞️ **Pasa a:** "La receta para pedir bien".
 
-> "Un **prompt** es la instrucción que le damos. Y funciona como el domicilio: si dices *'mándame
-> comida'*, llega cualquier cosa; si dices *'una hamburguesa sin cebolla, para dos, a esta dirección'*,
-> llega justo lo que querías."
+> "Un **prompt** es la instrucción que le damos. Y funciona como una **receta**: si solo dices
+> *'algo de comer'*, te sale cualquier cosa; si dices los ingredientes, la porción y el punto,
+> sale justo lo que querías."
 
 > "La receta tiene **5 ingredientes**: **Rol** (actúa como…) · **Tarea** (escríbeme…) · **Contexto**
-> (para quién) · **Formato** (cómo lo quiero) · **Ejemplo** (opcional). Con eso ya estás por encima
-> del promedio."
+> (para quién) · **Formato** (cómo lo quiero) · **Ejemplo** (opcional). Y un cierre que ayuda mucho:
+> **si te falta información, pídemela antes de responder.**"
 
 > "Y el truco más poderoso: **conversa con la IA**. Dile 'hazlo más corto', 'más formal', 'cámbiale el
 > tono'. Es una conversación, no una lotería."
 
 🎞️ **Pasa a:** "Si la IA responde mal, probablemente le pediste mal" (aquí están los botones de demo).
 
-> "Ahora lo vemos en vivo."
+> "Recorramos la demo completa, paso a paso."
 
-**Demo:** abre **▶ Ver demo · texto** (misma tarea: mensaje de bienvenida, flojo vs bien) y **▶ Ver demo · imagen** (prompt de imagen flojo vs bueno). Comenta cada paso con el público.
+**Demo (modal, 4 pasos):**
+1. **Prompt flojo** → "Miren: largo, genérico y con huecos."
+2. **Prompt bueno** → "Rol, extensión, tono y formato: dos versiones usables."
+3. **Iteración** → "Si algo no gusta, no se empieza de cero: se pide el ajuste."
+4. **Formato** → "Y también se puede pedir el formato: tabla, lista, correo."
 
-**Micro-pregunta:** *"¿Cuál de los dos prompts era el bueno y por qué?"*
+**Demo de imagen:** abre **▶ Ver demo · imagen** (otra herramienta, la misma idea: el detalle cambia el resultado).
+
+**Ejercicio con el público (2 min):** *"En el chat: ¿qué le agregarían a este prompt? — 'hazme un mensaje para los asociados'."*
 
 ---
 
@@ -290,7 +304,7 @@ Necesito [TAREA].
 Contexto: [PARA QUIÉN / POR QUÉ].
 Formato: [CÓMO LO QUIERO: tabla, lista, máx. X palabras].
 Ejemplo de buen resultado: [OPCIONAL].
-Si te falta información, pregúntame antes de responder.
+Cierre útil (opcional): si te falta información, pregúntame antes de responder.
 ```
 
 ---

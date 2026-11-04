@@ -33,23 +33,25 @@ y entienda que la calidad depende de la calidad de la instrucción.
 ## Guion sugerido (texto para decir)
 
 ### Gancho (0:00–0:50)
-> "Miren estas dos respuestas de la misma IA, para **la misma tarea**. En una pedí
-> algo flojo; en la otra, pedí bien. Miren la diferencia."
+> "Antes de arrancar: ¿por qué a unas personas la IA les sirve y a otras no? No es
+> suerte. Miren estas dos respuestas de la misma IA, para **la misma tarea**. En una
+> pedí algo flojo; en la otra, pedí bien."
 
-*Mostrar lado a lado: respuesta vaga vs. respuesta útil.*
+*Mostrar la slide de comparación: las dos capturas lado a lado (prompt flojo vs. prompt bueno).*
 
 > "¿Qué cambió? No la IA. Cambió **cómo le pedí las cosas**. A eso le llamamos
 > *prompt engineering*: el arte de pedir bien."
+
+*Micro-pregunta: "¿Qué le faltó al primer prompt?"*
 
 ### ¿Qué es un prompt? (0:50–2:30)
 > "Un **prompt** es simplemente la instrucción que le damos a la IA. Nada de otro
 > mundo. El mensaje que le pasas a la IA.
 >
-> Y funciona como cuando pides domicilio: si dices *'mándame comida'*, puede llegar
-> cualquier cosa. Si dices *'una hamburguesa sin cebolla, para dos personas, a esta
-> dirección'*, llega justo lo que querías, o eso esperamos (risa)."
+> Y funciona como una **receta**: si solo dices *'algo de comer'*, te sale cualquier
+> cosa. Si dices los ingredientes, la porción y el punto, sale justo lo que querías."
 
-*Apoyo visual: analogía del domicilio (`prompts-imagenes.md`, imagen 1).*
+*Apoyo visual: la receta de la slide siguiente.*
 
 ### La receta de 5 pasos (2:30–6:00)
 > "La buena noticia es que hay una receta. Cuando le pidas algo a la IA, incluye
@@ -85,9 +87,10 @@ y entienda que la calidad depende de la calidad de la instrucción.
 *Usar el ejercicio 1 de `ejercicios.md`.*
 
 ### Cierre + micro-pregunta (14:40–15:00)
-> "Recuerden: **pedir bien = obtener bien.** cuando se trata de IA.
->
-> Para el chat: **¿cuál de los dos prompts de la demo era el bueno y por qué?**"
+> "Recuerden: **pedir bien = obtener bien.** Cuando se trata de IA, la calidad
+> depende de la calidad de la instrucción."
+
+*Cerrar con el ejercicio: "¿qué le agregarían a este prompt? — 'hazme un mensaje para los asociados'."*
 
 ---
 
