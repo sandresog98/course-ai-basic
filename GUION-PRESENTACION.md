@@ -1,6 +1,6 @@
 # Guion de presentación — "Inteligencia Artificial sin misterios"
 
-**Presenta:** Andrés Felipe Olaya · **Duración:** ~60 min + preguntas · **Audiencia:** asociados de Coomultiunion.
+**Presenta:** Andrés Felipe Olaya · **Duración:** ~70 min + preguntas · **Audiencia:** asociados de Coomultiunion.
 
 > **Cómo usar este guion:** cada bloque indica ⏱️ tiempo, formato (🎥 en vivo / 📼 pregrabado),
 > **lo que dices** (en cita) y **lo que muestras** (sección de la web).
@@ -21,6 +21,7 @@
 | 3 | 10 | Modelos de IA | 📼 Pregrabado |
 | 4 | 15 | Pedir bien (Prompt Engineering) | 🎥 En vivo |
 | 5 | 10 | OpenCode (IA local) | 🎥 En vivo |
+| 5.5 | 8 | Muestra en vivo: de la idea a la página | 🎥 En vivo |
 | 6 | 7+ | Cierre "No creas a ciegas" + preguntas | 🎥 En vivo |
 
 ---
@@ -64,7 +65,8 @@
 > "En la próxima hora veremos **cinco cosas**: por qué la IA no es solo ChatGPT, en qué se
 > diferencian las IAs de **Estados Unidos y China**, qué **modelos** existen, cómo **pedirle bien** las
 > cosas a la IA, y cómo hay herramientas que corren en **tu propio computador**.
-> Al final tendremos un buen espacio para preguntas. Por favor, **anoten todo desde ya**."
+> Y al final lo haremos **en vivo**: de una idea a una página web.
+> Después tendremos un buen espacio para preguntas. Por favor, **anoten todo desde ya**."
 
 **Micro-pregunta:** *"Me gustaría pedir en el chat: ¿quién de ustedes ya usó alguna herramienta de IA? ✅ si sí, 👀 si no."*
 
@@ -206,7 +208,9 @@
 > tipo '[nombre del socio]'. En la segunda pedí bien: **dos versiones cortas**, en tono cálido y
 > listas para usar. **¿Qué cambió? No la IA: cómo le pedí.** A eso le llamamos *prompt engineering*."
 
-**Micro-pregunta (aquí, antes de la receta):** *"¿Qué le faltó al primer prompt?"*
+🎞️ **Pasa a:** "Demo · Pedir bien (Prompt Engineering)". (pestaña 3)
+> "Siempre es bueno mejorar y trabajar sobre lo trabajado, pedirle que mejore
+> y expandir las respuestas a lo que necesitamos".
 
 🎞️ **Pasa a:** "La receta para pedir bien".
 
@@ -241,6 +245,7 @@
 
 🎞️ **Pasa a:** "5 · OpenCode" (divisor).
 
+> Continuamos con la sección más pedida
 > "Hasta ahora vimos IA en internet. Pero también hay **IA que vive en tu propio computador** y
 > trabaja con tus archivos."
 
@@ -261,6 +266,43 @@
 
 ---
 
+## MUESTRA EN VIVO — De una idea a una página web (8 min · 🎥)
+
+🎞️ **Pasa a:** "EN VIVO · De una idea a una página web" (divisor).
+
+> "Hasta acá vimos qué es la IA, qué modelos hay, cómo pedirle bien y cómo vive en tu computador.
+> Ahora lo hacemos **todo junto, en vivo**: de una idea a una página web, en **cuatro pasos** y con
+> **los mismos prompts siempre**."
+
+🎞️ **Pasa a:** "Tres temas, el mismo método".
+
+> "Ustedes eligen el tema. Tengo tres listos: **ahorro y crédito**, **finanzas personales** o
+> **turismo y bienestar**. ¿Cuál hacemos?" *(votación rápida en el chat: 1, 2 o 3)*
+
+**Paso 1 · Investigar (2 min).** Abre la IA y pega el **Prompt 1 (Anexo E)** con el tema elegido.
+> "Primero **investigamos**: le pido datos con fuente, tres ideas prácticas y un cierre. Y le digo
+> que si no está seguro de un dato, lo diga. Nada de inventar."
+
+**Paso 2 · Construir (3 min).** Pega el **Prompt 2 (Anexo E)** sin cambiar nada.
+> "Ahora le pido **la página completa en un solo archivo**, con los colores de la cooperativa y que
+> se vea bien en celular. Fíjense que no le digo 'una página bonita': le doy el estilo exacto."
+
+**Paso 3 · Abrir (1 min).** Guarda el resultado como `index.html` en una carpeta y ábrelo con doble clic.
+> "Guardo, abro… y ya tenemos una **página web de verdad**. Sin instalar nada, sin saber programar."
+
+**Paso 4 · Iterar (1 min).** Pide un solo cambio.
+> "Y como siempre: no la dejamos así. Un ajuste rápido: *'hazlo más corto'*, *'cambia el color'*,
+> *'agrega un botón de volver arriba'*. Ahí está la conversación."
+
+> "Ese es el método: **investigar → construir → abrir → iterar**. Sirve para un tema de la
+> cooperativa, para una circular o para el proyecto de la casa. Solo cambia el tema; el proceso es
+> el mismo."
+
+**Respaldo:** deja la página ya generada y el `index.html` guardado. Si falla internet, muéstrala y
+explica el proceso con los prompts en pantalla.
+
+---
+
 ## BLOQUE 6 — Cierre "No creas a ciegas" + preguntas (7 min+ · 🎥)
 
 🎞️ **Pasa a:** "Para llevar" (Las 5 ideas).
@@ -276,16 +318,22 @@
 
 > "Y una confesión: **este curso —guion, ideas, imágenes y diapositivas— se construyó con apoyo de IA
 > (~90%)**. Ustedes acaban de ver de lo que es capaz. Pero las **decisiones y el criterio** fueron míos:
-> la IA es un **martillo muy bueno**; necesita una mano que sepa dónde golpear."
+> la IA es un **martillo muy bueno**; necesita una mano que sepa como y dónde golpear."
 
 🎞️ **Pasa a:** "No creas en nada… indaga".
 
 > "Y lo más importante: con IA hoy es **muy fácil crear videos e imágenes falsas** que parecen reales.
-> Circulan videos falsos de políticos —de un lado y del otro— diciendo cosas que nunca dijeron. **Los
-> dos son falsos**: buscan **enfadar y confrontar**. Por eso: **no creas en nada… indaga.**
-> Desconfía del enojo, busca la fuente original, verifica (ColombiaCheck, AFP) y **no reenvíes**."
+> Circulan videos falsos de políticos —de un lado y del otro— diciendo cosas que nunca dijeron. 
+> Por ejemplo Ivan Cepeda diciendo que apoya iglesias satanicas
+> Abelardo de la espriella diciendo que colombia seria religión Judia
+> O abelardo defendiendo a sacerdotes violadores (bueno ese si era real)
+> En fin, las personas buscan **enfadar y confrontar**. Por eso: **no crean en nada… indague.**
+> Desconfíen del enojo, busca la fuente original, verifique y **no reenvíen**."
 
 > "Usa la IA con confianza… pero **no creas a ciegas**."
+
+> ¿Porque tenemos esta imagen en esta sección? el incremento de estafas por perfiles falsos hechos con IA
+> Provoco perdidas de 785 millones de dolares el año pasado-
 
 🎞️ **Pasa a:** "¡Gracias!".
 
@@ -333,8 +381,68 @@ Cierre útil (opcional): si te falta información, pregúntame antes de responde
 
 # ANEXO D — Logística y respaldo
 
-- **En vivo:** Bienvenida, Pedir bien, OpenCode y Cierre. Ten **respaldo** (capturas/videos) si falla internet.
+- **En vivo:** Bienvenida, Pedir bien, OpenCode, **muestra en vivo** y Cierre. Ten **respaldo** (capturas/videos/página ya generada) si falla internet.
 - **Pregrabado:** bloques 1, 2 y 3.
 - **Web:** refréscala antes de empezar; ten los **botones de demo** probados.
+- **Muestra en vivo:** carpeta vacía en el escritorio, navegador abierto y los **prompts del Anexo E** a mano (copiados o en un bloc de notas).
 - **Datos:** nunca mostrar información real de asociados.
 - **Recursos finales:** `07-cierre/recursos.md` y `docs/guia-demos.md`.
+
+---
+
+# ANEXO E — Muestra en vivo: prompts listos
+
+**Método fijo (siempre el mismo):** INVESTIGAR → CONSTRUIR → ABRIR → ITERAR.
+Solo cambia el **tema**; los dos prompts se usan tal cual.
+
+**Temas propuestos (elige uno con el público):**
+1. Ahorro y crédito — cómo funciona el ahorro en la cooperativa y en qué se diferencia de un banco.
+2. Finanzas personales — cinco hábitos sencillos para ordenar la plata del mes.
+3. Turismo y bienestar — tres planes económicos para descansar en Colombia.
+
+## Prompt 1 — Investigar
+
+```
+Actúa como investigador y redactor de contenidos para una cooperativa
+colombiana (Coomultiunion).
+
+Tema: [TEMA]
+Audiencia: asociados de 25 a 65 años, sin conocimientos técnicos.
+Objetivo: una página web de una sola sección, para leer en 3 minutos.
+
+Investiga y devuélveme, en español de Colombia y en tono cercano:
+1. Tres datos o cifras clave, cada uno con su fuente y el año.
+2. Tres ideas prácticas que el asociado pueda aplicar.
+3. Una frase de cierre motivadora.
+
+Reglas: no inventes cifras. Si no estás seguro de un dato, dilo.
+Máximo 250 palabras.
+```
+
+## Prompt 2 — Construir la página
+
+```
+Ahora crea una página web en UN SOLO archivo HTML, con el CSS incluido
+y sin dependencias externas, usando el contenido anterior.
+
+Diseño:
+- Estilo moderno y limpio: fondo claro #F4F7F9, tarjetas blancas
+  redondeadas y sombras suaves.
+- Colores: azul #0065A3, amarillo #FFE000 y rojo #E42320.
+- Tipografía del sistema (system-ui) o Poppins si está disponible.
+- Encabezado con el título; los 3 datos clave en tarjetas; las ideas
+  prácticas en lista; la frase de cierre destacada.
+- Debe verse bien en celular (responsive).
+- Sin imágenes externas; usa emojis o íconos simples si hace falta.
+
+Devuélveme solo el código, listo para guardar como index.html.
+```
+
+## Prompt 3 — Iterar (un solo cambio)
+
+```
+Hazlo más corto y agrega un botón "volver arriba" que aparezca al bajar.
+```
+
+> **Truco:** guarda el código como `index.html` dentro de una carpeta y ábrelo con doble clic.
+> Si el navegador lo abre como texto, guárdalo con la opción "Todos los archivos".

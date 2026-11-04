@@ -274,6 +274,10 @@ ul, ol { padding-left: 1.1em; }
   background: var(--azul); color: #fff; font-weight: 800; font-size: 1.6rem; margin-bottom: 1rem;
   box-shadow: 0 12px 30px rgba(0,0,0,.3);
 }
+.divider .num.live {
+  width: auto; height: auto; padding: .6em 1.3em; border-radius: 999px;
+  font-size: .9rem; letter-spacing: .16em;
+}
 
 /* ---------------- Sección con imagen de fondo (frase / frustración) ---------------- */
 .media-section { position: relative; overflow: hidden; }
