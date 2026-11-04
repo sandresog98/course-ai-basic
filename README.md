@@ -23,14 +23,18 @@ python -m http.server 8000
 
 ```
 curso/
+├── GUION-PRESENTACION.md   Guion único (lo que se dice, con tiempos)
 ├── index.html          Presentación web (scroll narrativo)
 ├── css/  ·  js/        Estilos y comportamiento
 ├── assets/
 │   ├── imagenes/       Las 28 imágenes del curso (estilo 2.5D)
-│   ├── logos/          Logo de Coomultiunion, ícono de MULTI
+│   ├── logos/          Logo de Coomultiunion, ícono de MULTI, logos de modelos
 │   └── demos/          Capturas de las demos (para el carrusel)
-└── docs/               Guiones y materiales del curso
+└── docs/               Guiones detallados por módulo y materiales
 ```
+
+> **Para presentar:** usa **[GUION-PRESENTACION.md](GUION-PRESENTACION.md)** (todo el
+> guion en un solo archivo: tiempos, textos, demos y Q&A).
 
 ---
 

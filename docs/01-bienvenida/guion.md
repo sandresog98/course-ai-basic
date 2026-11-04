@@ -33,8 +33,14 @@ ellos**, no para ingenieros. Romper el hielo y enganchar.
 
 ### Saludo (0:00–0:40)
 > "¡Hola a todos y a todas! Muchas gracias por sacar este espacio para acompañarnos
-> hoy. Mi nombre es **Andrés Felipe Olaya** y quiero empezar con una confesión:
-> yo también fui asociado antes de ser el que les habla hoy. Empecemos."
+> hoy.
+>
+> En la próxima hora vamos a ver varias **buenas prácticas de inteligencia artificial**,
+> y quiero aclarar desde ya que todo será **muy básico**: pensado para personas que
+> apenas están aprendiendo a manejarla.
+>
+> Mi nombre es **Andrés Felipe Olaya** y quiero empezar mencionando que
+> **yo también soy asociado de la cooperativa**. Empecemos."
 
 ### Presentación personal (0:40–2:30)
 > "Soy Ingeniero en Sistemas, con especialización en Analítica de Datos, y soy

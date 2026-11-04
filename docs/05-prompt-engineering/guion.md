@@ -33,8 +33,8 @@ y entienda que la calidad depende de la calidad de la instrucción.
 ## Guion sugerido (texto para decir)
 
 ### Gancho (0:00–0:50)
-> "Miren estas dos respuestas de la misma IA. En una pedí: *'háblame de la
-> cooperativa'*. En la otra pedí algo más completo. Miren la diferencia."
+> "Miren estas dos respuestas de la misma IA, para **la misma tarea**. En una pedí
+> algo flojo; en la otra, pedí bien. Miren la diferencia."
 
 *Mostrar lado a lado: respuesta vaga vs. respuesta útil.*
 
