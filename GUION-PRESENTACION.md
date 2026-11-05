@@ -79,9 +79,9 @@
 > "Hace unos años todos lo pensaban. Hoy incluso muchas personas siguen **haciéndolo**. Pero no:
 > ChatGPT es solo **una de las muchas caras** de la IA.
 >
-> ¿Por qué creemos que son lo mismo? Porque en 2022 ChatGPT se volvió famosísimo y se volvió la
-> cara visible de todo. Es como decir 'busco en internet' cuando en realidad buscamos en Google:
-> **internet no es Google**, ¿cierto?"
+> ¿Por qué creemos que son lo mismo? Porque en 2022 ChatGPT se volvió famosísimo: **fueron los
+> primeros en lanzar una herramienta así al mercado**. El impacto fue tan grande que hoy decimos
+> 'busco en internet' cuando en realidad buscamos en Google: **internet no es Google**, ¿cierto?"
 
 🎞️ **Pasa a:** "La IA es el motor; ChatGPT es una puerta" (iceberg).
 
@@ -103,6 +103,11 @@
 > enseñan a caminar; en el tercero, donde al cerebro se le dan **clases universitarias**. Y en el
 > **último**, donde **habla e interactúa**."
 
+> "Y un dato que a mí me parece clave: la IA **nació como un predictor de texto**. Le mostraban
+> 'hola' y la máquina adivinaba qué seguía: 'hola, buenas tardes', 'hola, ¿cómo estás?'. Cuando
+> acertaba, un humano le decía 'sí'; cuando fallaba, 'no'. Así fue aprendiendo. Hoy ya casi no la
+> entrena una persona: la entrena **otra IA**."
+
 🎞️ **Pasa a:** "La IA que ya usamos sin saberlo".
 
 > "Y hay IA en cosas que usan todos los días: cuando **Netflix** te recomienda, cuando **Waze** te
@@ -116,8 +121,10 @@
 > que te gustan, una tras otra. Aprende no solo de los temas que te gustan, sino de la duración de videos que ves
 > aprende del tono de voz y musica que más te llama la atención
 > aprende de cuales anuncios tú ves, sin darte cuenta de que son anuncios
-> Realmente es algo terrible. Por favor, si usan esas redes sociales,
-> **coloquen límites** para que la IA **no los vuelva adictos** Sin darse cuenta de que son adictos."
+> Realmente es algo terrible, porque cada vez pasamos más horas frente a una pantalla: la atención
+> pasó de **5 segundos a 3**. Si en esos 3 segundos no los atrapas, los pierdes. Por favor, si usan
+> esas redes sociales, **coloquen límites** para que la IA **no los vuelva adictos** Sin darse cuenta
+> de que son adictos, sobre todo con los niños."
 
 ---
 
@@ -130,11 +137,16 @@
 > "Imaginen que necesitan arreglar un baño: ¿llamarían a un arquitecto? No, al fontanero. Con la IA
 > pasa igual: **cada modelo es bueno en algo**."
 
+> "Los más famosos: **GPT** (OpenAI), **Gemini** (Google), **Claude** (Anthropic), **DeepSeek**
+> (China) y **Grok** (el de X). Y hay un montón más."
+
 🎞️ **Pasa a:** "No hay un modelo para todo" (equipo de profesionales).
 
 > "Piensen en los modelos como un **equipo de profesionales**: hay **escritores** (texto), **ilustradores**
 > (imagen), **traductores/transcriptores** (voz), **analistas** (datos) y **programadores** (código).
 > Todos son 'IA', pero cada uno tiene su especialidad."
+> Y cada vez tienden más a **centralizar todo** en una sola app: ya casi no elegimos 'el especialista',
+> la herramienta nos va llevando. Por eso vale la pena saber qué hay detrás.
 > Cuando profundicen en inteligencia artifial, piensen primero en que necesitas, cual es la tarea que le van a poner
 > Luego ya podran escoger el modelo
 
@@ -145,9 +157,13 @@
 > **Datos** (análisis con GPT/Gemini/Claude) · **Código** (Claude, DeepSeek Coder, Qwen Coder)."
 
 > "La regla de oro es sencilla: **primero la tarea, después el modelo.** Y si quieren ver **cuál es el
-> mejor hoy**, hay un ranking actualizado por rama (**artificialanalysis.ai/es#intelligence**)."
+> mejor hoy**, hay un ranking actualizado por rama (**artificialanalysis.ai/es#intelligence**). En
+> imagen y en video el líder cambia cada semana, así que **no se aprendan los puntajes**: mírenlos ahí."
 
-> "Para nuestro día a día en Coomultiunion: para una **circular**, un modelo de texto; para una **pieza
+**Demo opcional (30 s):** abre **artificialanalysis.ai** y muestra el top por rama (texto, imagen, video).
+Ten una **captura de respaldo** por si falla internet. *No leas cifras de memoria.*
+
+> "Para nuestro día a día en Coomultiunion utilizamos modelos como: para una **comunicación**, un modelo de texto; para una **pieza
 > de redes**, uno de imágenes; para **resumir un convenio de 40 páginas**, uno que lea documentos largos;
 > para **analizar afiliaciones**, uno de datos. Y un consejo: **empiecen con un solo modelo**; dominar uno
 > vale más que probar veinte a medias."
@@ -166,14 +182,17 @@
 
 > "Seguro han escuchado 'la IA china es mala' o 'la gringa es la buena'. Quiero bajarle el tono:
 > hay **dos grandes escuelas**, la de **Estados Unidos** y la de **China**, y **las dos** hacen cosas
-> sorprendentes."
+> sorprendentes. También hay modelos europeos y algunos latinoamericanos: **van un paso atrás**,
+> pero existen."
 
 🎞️ **Pasa a:** "Dos ecosistemas que funcionan muy bien" (logos GPT/Claude/DeepSeek/Qwen).
 
 > "No es una pelea de boxeo: son dos países compitiendo por liderar la tecnología. Es como las marcas
 > de carros: **no hay una que sirva para todo**, y la competencia, a nosotros como usuarios, nos beneficia. Y mucho."
-> La competencia hace que las empresas intenten mejorar su servicio y bajar el costo. Sino fuera por la IA china
-> ChatGPT en su plan pago costaria el doble
+> La competencia hace que las empresas mejoren el servicio y bajen el costo. **Se estima** que, sin la
+> IA china, el plan pago de ChatGPT costaría el doble: unos **US$40** en vez de US$20 al mes. Y detrás
+> de esos precios hay ingeniería: los modelos chinos logran muy buenos resultados con **menos energía
+> y chips más baratos**."
 
 🎞️ **Pasa a:** "Cuatro diferencias clave".
 
@@ -191,10 +210,12 @@
 > **4. Datos:** no se trata de que uno sea 'bueno' y el otro 'malo'. Cada proveedor guarda la información
 > en **sus servidores** (unos en EEUU, otros en China) y aplica **sus propias políticas**. Por eso, con
 > **datos de asociados** la regla es la misma con todos: **no subirlos a herramientas públicas**; usar
-> **corporativo o local**."
->
-> Multi 2 tiene una IA llama Soli, no puede compartir información de asociados a nuestro proveedor de IA
-> Ni gringo ni chino
+> **corporativo o local**. Y ojo: aunque borren el chat, la empresa **muy probablemente lo conserva**.
+> Nada de cédulas, teléfonos, correos, tarjetas ni claves."
+
+> "Y un ejemplo nuestro: **MULTI 2 tiene a Soli**, su asistente con IA. Y algo clave: **Soli no comparte
+> la información de los asociados con ningún proveedor**, ni gringo ni chino. Trabajamos con un
+> proveedor que certifica que **no almacena** nuestras conversaciones."
 
 🎞️ **Pasa a:** "Cómo empezar sin gastar un peso".
 
@@ -209,31 +230,35 @@
 
 ## BLOQUE 4 — Pedir bien · Prompt Engineering (15 min · 🎥)
 
-> "Antes de arrancar, una pregunta: ¿por qué a unas personas la IA les sirve y a otras no?
-
 🎞️ **Pasa a:** "4 · Pedir bien" (divisor).
 
+> "Antes de arrancar, una pregunta: ¿por qué a unas personas la IA les sirve y a otras no?
 > No es suerte. **Miren esto.**"
-
 
 🎞️ **Pasa a:** "Dos prompts, dos resultados" (la comparación, en pantalla).
 
-> "Estas son dos respuestas de **la misma IA**, para **la misma tarea**: 
-> ¿que queriamos? 
-> un mensaje de bienvenida para la cooperativa. Samir nos dice "un mensaje para enviarle al celular a los asociados"
-> En la primera pedí algo flojo: sale un correo largo, genérico y con huecos
-> tipo '[nombre del socio]'. En la segunda pedí bien: **dos versiones cortas**, en tono cálido y
-> listas para usar. **¿Qué cambió? No la IA: cómo le pedí.** A eso le llamamos *prompt engineering*."
+> "Estas son dos respuestas de **la misma IA**, para **la misma tarea**. ¿Qué queríamos? Un mensaje de
+> bienvenida para la cooperativa. Y **Samir** nos dice: 'un mensaje para enviarle **al celular** a los
+> asociados'. Ahí está la primera pista.
+>
+> En la primera pedí algo flojo: sale un correo largo, genérico y con huecos tipo '[nombre del socio]'.
+> En la segunda pedí bien: **dos versiones cortas**, en tono cálido y listas para usar. **¿Qué cambió?
+> No la IA: cómo le pedí.** A eso le llamamos *prompt engineering*.
+>
+> Y algo importante: la IA **no es una persona**. No te está adivinando: si no eres específico,
+> **toma decisiones por ella misma** y se va por otro lado."
 
 🎞️ **Pasa a:** "Demo · Pedir bien (Prompt Engineering)". (pestaña 3)
-> "Siempre es bueno mejorar y trabajar sobre lo trabajado, pedirle que mejore
-> y expandir las respuestas a lo que necesitamos".
+
+> "Siempre es bueno mejorar y trabajar sobre lo trabajado: pedirle que mejore y expandir las
+> respuestas a lo que necesitamos."
 
 🎞️ **Pasa a:** "La receta para pedir bien".
 
 > "Un **prompt** es la instrucción que le damos. Y funciona como una **receta**: si solo dices
 > *'algo de comer'*, te sale cualquier cosa; si dices los ingredientes, la porción y el punto,
-> sale justo lo que querías."
+> sale justo lo que querías. Y también como pedirle a un profesional: si le pides una demanda a un
+> chef, o una pasta a un abogado, no va a salir bien. **El rol importa.**"
 
 > "La receta tiene **5 ingredientes**: **Rol** (actúa como…) · **Tarea** (escríbeme…) · **Contexto**
 > (para quién) · **Formato** (cómo lo quiero) · **Ejemplo** (opcional). Y un cierre que ayuda mucho:
@@ -248,12 +273,14 @@
 > "Recorramos la demo completa, paso a paso."
 
 **Demo (modal, 4 pasos):**
-1. **Prompt flojo** → "Miren: largo, genérico y con huecos."
+1. **Prompt flojo** → "Miren: largo, genérico y con huecos. Y era para el celular."
 2. **Prompt bueno** → "Rol, extensión, tono y formato: dos versiones usables."
-3. **Iteración** → "Si algo no gusta, no se empieza de cero: se pide el ajuste."
+3. **Iteración** → "Si algo no gusta, no se empieza de cero: 'convierte la última versión en una tabla
+   mensaje / canal / momento'."
 4. **Formato** → "Y también se puede pedir el formato: tabla, lista, correo."
 
-**Demo de imagen:** abre **▶ Ver demo · imagen** (otra herramienta, la misma idea: el detalle cambia el resultado).
+**Demo de imagen:** abre **▶ Ver demo · imagen** (otra herramienta). Enmárcala: *"queremos una imagen
+para un curso de niños"*. La vaga sirve, pero no es para niños; con estilo, luz y formato, sí.
 
 **Ejercicio con el público (2 min):** *"En el chat: ¿qué le agregarían a este prompt? — 'hazme un mensaje para los asociados'."*
 
@@ -273,11 +300,17 @@
 > la IA en la **nube**; **cocinar en tu casa** (controlas los ingredientes, nadie mira) es la IA
 > **local**. Las dos son ricas; la pregunta es qué conviene para cada cosa."
 
-> "**OpenCode** es un ejemplo. El chat **te dice cómo**; el agente **lo hace**: lee tus documentos,
-> los organiza, los corrige, crea archivos nuevos. A esto se le llama **agente**: una IA que no solo
-> conversa, sino que **actúa**."
+> "**OpenCode** es un ejemplo. Se **instala** en tu computador, le das **acceso a una carpeta** y
+> trabaja ahí con un **control limitado**: escribe, lee y crea archivos, pero solo dentro de lo que le
+> autorizas. El chat **te dice cómo**; el agente **lo hace**: lee tus documentos, los organiza, los
+> corrige, crea archivos nuevos. A esto se le llama **agente**: una IA que no solo conversa, sino que
+> **actúa**. Y no se queda en el chat: se queda trabajando con la información de **tu** computador."
 
-**Demo:** abre **▶ Ver demo** (organiza la carpeta **Estudio** de 32 archivos + genera un informe PDF). Recorre los 6 pasos.
+**Demo:** abre **▶ Ver demo** (organiza la carpeta **Estudio** de 32 archivos + genera un informe PDF).
+Recorre los 6 pasos y lee el prompt completo: *"organiza la carpeta de estudio en subcategorías por
+materia… renombra los archivos de forma consistente, materia, tipo, número… y crea un informe con el
+listado de lo que hiciste y qué hay en cada carpeta"*. Resultado: 8 subcarpetas, 32 archivos
+renombrados y el informe.
 
 **Micro-pregunta:** *"¿Qué tarea repetitiva de su día a día le dejarían a un asistente así?"*
 > Ejemplo propio: *"Al cerrar mi día laboral respondo correos: le pido a la IA un resumen y propuestas de respuesta; yo complemento y le pido que envíe."*
@@ -296,8 +329,12 @@
 
 > "Ustedes eligen el tema. Tengo tres listos: **ahorro y crédito**, **finanzas personales** o
 > **turismo y bienestar**. ¿Cuál hacemos?" *(votación rápida en el chat: 1, 2 o 3)*
+>
+> "Y si alguien tiene un negocio —una droguería, algo de belleza—, también lo podemos adaptar. Va a ser
+> una página **básica**, no esperen la página perfecta: es un acercamiento."
 
-**Paso 1 · Investigar (2 min).** Abre la IA y pega el **Prompt 1 (Anexo E)** con el tema elegido.
+**Paso 1 · Investigar (2 min).** Abre **OpenCode** en una carpeta vacía y pega el **Prompt 1 (Anexo E)**
+con el tema elegido.
 > "Primero **investigamos**: le pido datos con fuente, tres ideas prácticas y un cierre. Y le digo
 > que si no está seguro de un dato, lo diga. Nada de inventar."
 
@@ -305,8 +342,10 @@
 > "Ahora le pido **la página completa en un solo archivo**, con los colores de la cooperativa y que
 > se vea bien en celular. Fíjense que no le digo 'una página bonita': le doy el estilo exacto."
 
-**Paso 3 · Abrir (1 min).** Guarda el resultado como `index.html` en una carpeta y ábrelo con doble clic.
-> "Guardo, abro… y ya tenemos una **página web de verdad**. Sin instalar nada, sin saber programar."
+**Paso 3 · Abrir (1 min).** Guarda el resultado como `index.html` en la carpeta y **ábrelo con doble
+clic** (que se vea la barra del navegador).
+> "Guardo, abro… y ya tenemos una **página web de verdad**, en el navegador. Sin instalar nada, sin
+> saber programar."
 
 **Paso 4 · Iterar (1 min).** Pide un solo cambio.
 > "Y como siempre: no la dejamos así. Un ajuste rápido: *'hazlo más corto'*, *'cambia el color'*,
@@ -330,7 +369,7 @@ explica el proceso con los prompts en pantalla.
 > 2. Hay **muchos modelos**.
 > 3. EEUU vs China: **prueba gratis y decide** (los dos sirven).
 > 4. **Pedir bien = obtener bien.**
-> 5. La IA **también vive en tu computador** (y no solo responde: hace)."
+> 5. La IA **también vive en tu computador** —y en tu celular— (y no solo responde: hace)."
 
 🎞️ **Pasa a:** "La confesión".
 
@@ -341,17 +380,15 @@ explica el proceso con los prompts en pantalla.
 🎞️ **Pasa a:** "No creas en nada… indaga".
 
 > "Y lo más importante: con IA hoy es **muy fácil crear videos e imágenes falsas** que parecen reales.
-> Circulan videos falsos de políticos —de un lado y del otro— diciendo cosas que nunca dijeron. 
-> Por ejemplo Ivan Cepeda diciendo que apoya iglesias satanicas
-> Abelardo de la espriella diciendo que colombia seria religión Judia
-> O abelardo defendiendo a sacerdotes violadores (bueno ese si era real)
-> En fin, las personas buscan **enfadar y confrontar**. Por eso: **no crean en nada… indague.**
-> Desconfíen del enojo, busca la fuente original, verifique y **no reenvíen**."
+> Circulan videos falsos de políticos —de un lado y del otro— diciendo cosas que nunca dijeron.
+> En fin, buscan **enfadar y confrontar**. Por eso: **no crean en nada… indaguen.**
+> Desconfíen del enojo, busquen la fuente original, verifiquen y **no reenvíen**."
 
 > "Usa la IA con confianza… pero **no creas a ciegas**."
 
-> ¿Porque tenemos esta imagen en esta sección? el incremento de estafas por perfiles falsos hechos con IA
-> Provoco perdidas de 785 millones de dolares el año pasado-
+> "¿Y por qué tenemos esta imagen en esta sección? Porque el incremento de **estafas con perfiles
+> falsos hechos con IA** provocó pérdidas de **893 millones de dólares** el año pasado, solo en
+> Estados Unidos (informe del FBI). Es una cifra alarmante, y las personas caen muy fácil."
 
 🎞️ **Pasa a:** "¡Gracias!".
 
@@ -421,16 +458,17 @@ Solo cambia el **tema**; los dos prompts se usan tal cual.
 ## Prompt 1 — Investigar
 
 ```
-Actúa como investigador y redactor de contenidos para una cooperativa
-colombiana (Coomultiunion).
+Actúa como investigador y redactor de contenidos.
 
 Tema: [TEMA]
-Audiencia: asociados de 25 a 65 años, sin conocimientos técnicos.
-Objetivo: una página web de una sola sección, para leer en 3 minutos.
+Audiencia: adultos de 25 a 65 años, sin conocimientos técnicos.
+Contexto: página web de una organización colombiana (cooperativa,
+droguería, emprendimiento, etc.).
+Objetivo: una página de una sola sección, para leer en 3 minutos.
 
 Investiga y devuélveme, en español de Colombia y en tono cercano:
 1. Tres datos o cifras clave, cada uno con su fuente y el año.
-2. Tres ideas prácticas que el asociado pueda aplicar.
+2. Tres ideas prácticas que la persona pueda aplicar.
 3. Una frase de cierre motivadora.
 
 Reglas: no inventes cifras. Si no estás seguro de un dato, dilo.

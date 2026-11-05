@@ -672,6 +672,15 @@ ul, ol { padding-left: 1.1em; }
 }
 .diff-card .eco-more { font-size: .74rem; color: var(--suave); }
 
+/* Soli dentro de la tarjeta "Datos" */
+.soli-mini {
+  display: flex; align-items: center; gap: .45rem; margin-top: .6rem; padding-top: .55rem;
+  border-top: 1px solid #e6eef5;
+}
+.soli-mini img { width: 30px; height: 30px; object-fit: contain; flex: 0 0 auto; }
+.soli-mini span { font-size: .74rem; line-height: 1.35; color: var(--suave); }
+.soli-mini strong { color: var(--azul); }
+
 /* Encabezado sobre imagen de fondo */
 .media-section > h2 {
   color: #fff;
