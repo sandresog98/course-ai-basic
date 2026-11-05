@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/web.css?v=29">
+  <link rel="stylesheet" href="css/web.css?v=30">
 </head>
 <body>
 
@@ -173,15 +173,31 @@
       </figure>
     </section>
 
-    <section class="section center" id="s9b">
+    <section class="section center media-section" id="s9b">
+      <div class="divider-media"><img src="assets/imagenes/f03-m0-divisor-eeuu-china.png" alt=""></div>
       <span class="kicker" data-animate>Lo que las diferencia</span>
       <h2 data-animate style="--d:.06s">Cuatro diferencias clave</h2>
       <div class="diff" data-animate style="--d:.12s">
         <article class="diff-card">
           <b>1</b>
           <h3>Ecosistema</h3>
-          <p><strong>EEUU:</strong> OpenAI (GPT), Google (Gemini), Anthropic (Claude), Meta (Llama).<br>
-             <strong>China:</strong> DeepSeek, Alibaba (Qwen), Moonshot (Kimi), ByteDance.</p>
+          <div class="eco-group">
+            <span class="eco-label">EEUU</span>
+            <div class="eco-row">
+              <img src="assets/logos/apps/openai.png" alt="OpenAI" title="OpenAI">
+              <img src="assets/logos/apps/gemini.png" alt="Google Gemini" title="Google Gemini">
+              <img src="assets/logos/apps/claude.png" alt="Anthropic Claude" title="Anthropic Claude">
+              <img src="assets/logos/apps/llama.png" alt="Meta Llama" title="Meta Llama">
+            </div>
+          </div>
+          <div class="eco-group">
+            <span class="eco-label">China</span>
+            <div class="eco-row">
+              <img src="assets/logos/apps/deepseek.png" alt="DeepSeek" title="DeepSeek">
+              <img src="assets/logos/apps/qwen.png" alt="Alibaba Qwen" title="Alibaba Qwen">
+            </div>
+          </div>
+          <p class="eco-more">+ Moonshot (Kimi) y ByteDance</p>
         </article>
         <article class="diff-card">
           <b>2</b>
@@ -438,6 +454,6 @@
     <span id="progressText">0%</span>
   </footer>
 
-  <script src="js/web.js?v=29"></script>
+  <script src="js/web.js?v=30"></script>
 </body>
 </html>
