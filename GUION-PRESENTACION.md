@@ -52,11 +52,8 @@
 
 🎞️ **Pasa a:** "La cooperativa".
 
-> "Antes de empezar, recordemos qué es **Coomultiunion**: es una cooperativa multiactiva, del sector solidario; ya somos más de **400 asociados**.
-> Nos ofrece crédito, inversión, convenios, salud, turismo, recreación y bienestar para nosotros y
-> nuestras familias. Donde otros ven negocios, aquí vemos **solidaridad**.
->
-> Y algo que me toca de cerca: he acompañado a la cooperativa en la app que centraliza toda la
+> "Antes de empezar, recordemos qué es **Coomultiunion**: es una cooperativa del sector solidario; ya somos más de **400 asociados**.
+> Me toca de cerca: la tecnologia de la cooperativa, ya que aporte en la app que centraliza toda la
 > información. Espero que la mayoría de los asociados la conozca: se llama **MULTI**. Estamos lanzando la **versión 2**: úsenla, dígannos qué les gusta y qué no.
 > Cada comentario nos ayuda a mejorarla."
 
@@ -116,8 +113,11 @@
 
 > "Yo tengo un ejemplo más: los modelos de IA **están** volviendo adictos a niños y adultos en
 > **TikTok, Instagram, YouTube, Facebook y X** (el viejo Twitter), porque usan IA para mostrarte cosas
-> que te gustan, una tras otra. Realmente es algo terrible. Por favor, si usan esas redes sociales,
-> **coloquen límites** para que la IA **no los vuelva adictos**."
+> que te gustan, una tras otra. Aprende no solo de los temas que te gustan, sino de la duración de videos que ves
+> aprende del tono de voz y musica que más te llama la atención
+> aprende de cuales anuncios tú ves, sin darte cuenta de que son anuncios
+> Realmente es algo terrible. Por favor, si usan esas redes sociales,
+> **coloquen límites** para que la IA **no los vuelva adictos** Sin darse cuenta de que son adictos."
 
 ---
 
@@ -125,7 +125,7 @@
 
 🎞️ **Pasa a:** "2 · EEUU vs China" (divisor con banderas).
 
-> "Pero bueno, seguimos con el aprendizaje."
+> "pasemos a nuestro segundo bloque"
 
 > "Seguro han escuchado 'la IA china es mala' o 'la gringa es la buena'. Quiero bajarle el tono:
 > hay **dos grandes escuelas**, la de **Estados Unidos** y la de **China**, y **las dos** hacen cosas
@@ -135,6 +135,9 @@
 
 > "No es una pelea de boxeo: son dos países compitiendo por liderar la tecnología. Es como las marcas
 > de carros: **no hay una que sirva para todo**, y la competencia, a nosotros como usuarios, nos beneficia. Y mucho."
+> La competencia hace que las empresas intenten mejorar su servicio y bajar el costo
+
+🎞️ **Pasa a:** "Cuatro diferencias clave".
 
 > "**Cuatro diferencias clave:**
 > **1. Ecosistema:** EEUU → OpenAI (GPT), Google (Gemini), Anthropic (Claude), Meta (Llama).

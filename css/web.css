@@ -638,6 +638,29 @@ ul, ol { padding-left: 1.1em; }
   .compare-card img { height: 150px; }
 }
 
+/* ---------------- Cuatro diferencias (bloque 2) ---------------- */
+.diff {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem;
+  width: 100%; max-width: 1180px; text-align: left; margin-top: 1.6rem;
+}
+.diff-card {
+  background: #fff; border-radius: 16px; padding: 1.1rem 1.05rem;
+  border-top: 6px solid var(--acento);
+  box-shadow: 0 12px 30px rgba(0, 101, 163, .12);
+}
+.diff-card:nth-child(2) { border-top-color: var(--rojo); }
+.diff-card:nth-child(3) { border-top-color: var(--amarillo); }
+.diff-card:nth-child(4) { border-top-color: var(--azul); }
+.diff-card b {
+  display: inline-grid; place-items: center; width: 28px; height: 28px; border-radius: 50%;
+  background: var(--azul); color: #fff; font-size: .85rem; font-weight: 800; margin-bottom: .5rem;
+}
+.diff-card h3 { margin: .1rem 0 .45rem; font-size: 1.02rem; color: var(--azul); }
+.diff-card p { margin: 0; font-size: .88rem; line-height: 1.5; color: var(--suave); }
+.diff-card p strong { color: var(--tinta); }
+@media (max-width: 900px) { .diff { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 560px) { .diff { grid-template-columns: 1fr; margin-top: 1rem; } }
+
 /* ---------------- Sección "No creas en nada, indaga" ---------------- */
 .section.dark { background: linear-gradient(160deg, #06263a, #0b3c5d); color: #eaf3f8; }
 .section.dark h2 { color: #fff; }
