@@ -390,6 +390,13 @@ explica el proceso con los prompts en pantalla.
 > falsos hechos con IA** provocó pérdidas de **893 millones de dólares** el año pasado, solo en
 > Estados Unidos (informe del FBI). Es una cifra alarmante, y las personas caen muy fácil."
 
+🎞️ **Pasa a:** "Cosas que no pudimos ver acá".
+
+> "Y esto es solo el comienzo. Quedaron por fuera **cuatro cosas** que ya se están usando:
+> **grupos de agentes** de IA trabajando en equipo, **automatización de correo**, **chatbots a la
+> medida** con la información de la cooperativa, y el uso de **LLMs para estudiar**. Si les interesa,
+> ese puede ser el próximo curso."
+
 🎞️ **Pasa a:** "¡Gracias!".
 
 > "Y ahora el espacio es de ustedes: **¿qué dudas quedaron?** No hay pregunta tonta."
