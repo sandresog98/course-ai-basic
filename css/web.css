@@ -681,6 +681,12 @@ ul, ol { padding-left: 1.1em; }
 .soli-mini span { font-size: .74rem; line-height: 1.35; color: var(--suave); }
 .soli-mini strong { color: var(--azul); }
 
+/* Soli junto a la lista de "Nuestra casa" */
+.soli-ico { width: 30px; height: 30px; object-fit: contain; vertical-align: -9px; margin-right: .3rem; }
+
+/* Texto claro sobre imagen de fondo */
+.media-section > .small { color: #fff; text-shadow: 0 2px 5px rgba(0,0,0,.85); }
+
 /* Encabezado sobre imagen de fondo */
 .media-section > h2 {
   color: #fff;

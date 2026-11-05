@@ -325,7 +325,7 @@ renombrados y el informe.
 > Ahora lo hacemos **todo junto, en vivo**: de una idea a una página web, en **cuatro pasos** y con
 > **los mismos prompts siempre**."
 
-🎞️ **Pasa a:** "Tres temas, el mismo método".
+🎞️ **Pasa a:** "Tres temas… o el tuyo".
 
 > "Ustedes eligen el tema. Tengo tres listos: **ahorro y crédito**, **finanzas personales** o
 > **turismo y bienestar**. ¿Cuál hacemos?" *(votación rápida en el chat: 1, 2 o 3)*
