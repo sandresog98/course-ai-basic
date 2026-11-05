@@ -17,8 +17,8 @@
 |---|---|---|---|
 | 0 | 5 | Bienvenida | 🎥 En vivo |
 | 1 | 7 | La IA no es ChatGPT | 📼 Pregrabado |
-| 2 | 8 | IA de EEUU vs China | 📼 Pregrabado |
-| 3 | 10 | Modelos de IA | 📼 Pregrabado |
+| 2 | 10 | Modelos de IA | 📼 Pregrabado |
+| 3 | 8 | IA de EEUU vs China | 📼 Pregrabado |
 | 4 | 15 | Pedir bien (Prompt Engineering) | 🎥 En vivo |
 | 5 | 10 | OpenCode (IA local) | 🎥 En vivo |
 | 5.5 | 8 | Muestra en vivo: de la idea a la página | 🎥 En vivo |
@@ -59,8 +59,8 @@
 
 🎞️ **Pasa a:** "Lo que veremos hoy" (Agenda).
 
-> "En la próxima hora veremos **cinco cosas**: por qué la IA no es solo ChatGPT, en qué se
-> diferencian las IAs de **Estados Unidos y China**, qué **modelos** existen, cómo **pedirle bien** las
+> "En la próxima hora veremos **cinco cosas**: por qué la IA no es solo ChatGPT, qué **modelos**
+> existen, en qué se diferencian las IAs de **Estados Unidos y China**, cómo **pedirle bien** las
 > cosas a la IA, y cómo hay herramientas que corren en **tu propio computador**.
 > Y al final lo haremos **en vivo**: de una idea a una página web.
 > Después tendremos un buen espacio para preguntas. Por favor, **anoten todo desde ya**."
@@ -121,11 +121,48 @@
 
 ---
 
-## BLOQUE 2 — IA de EEUU vs China (8 min · 📼)
+## BLOQUE 2 — Modelos de IA (10 min · 📼)
 
-🎞️ **Pasa a:** "2 · EEUU vs China" (divisor con banderas).
+🎞️ **Pasa a:** "2 · Modelos" (divisor).
 
-> "pasemos a nuestro segundo bloque"
+> "Pasemos a nuestro segundo bloque."
+
+> "Imaginen que necesitan arreglar un baño: ¿llamarían a un arquitecto? No, al fontanero. Con la IA
+> pasa igual: **cada modelo es bueno en algo**."
+
+🎞️ **Pasa a:** "No hay un modelo para todo" (equipo de profesionales).
+
+> "Piensen en los modelos como un **equipo de profesionales**: hay **escritores** (texto), **ilustradores**
+> (imagen), **traductores/transcriptores** (voz), **analistas** (datos) y **programadores** (código).
+> Todos son 'IA', pero cada uno tiene su especialidad."
+> Cuando profundicen en inteligencia artifial, piensen primero en que necesitas, cual es la tarea que le van a poner
+> Luego ya podran escoger el modelo
+
+🎞️ **Pasa a:** "Las 6 familias y sus especialistas".
+
+> "Las **6 familias**: **Texto** (GPT, Gemini, Claude, Llama) · **Imagen** (FLUX, Stable Diffusion,
+> Ideogram) · **Voz** (Whisper, ElevenLabs) · **Video** (Sora, Runway, Kling, Seedance) ·
+> **Datos** (análisis con GPT/Gemini/Claude) · **Código** (Claude, DeepSeek Coder, Qwen Coder)."
+
+> "La regla de oro es sencilla: **primero la tarea, después el modelo.** Y si quieren ver **cuál es el
+> mejor hoy**, hay un ranking actualizado por rama (**artificialanalysis.ai/es#intelligence**)."
+
+> "Para nuestro día a día en Coomultiunion: para una **circular**, un modelo de texto; para una **pieza
+> de redes**, uno de imágenes; para **resumir un convenio de 40 páginas**, uno que lea documentos largos;
+> para **analizar afiliaciones**, uno de datos. Y un consejo: **empiecen con un solo modelo**; dominar uno
+> vale más que probar veinte a medias."
+> Si ustedes saben y aprenden a pedirle a este modelo que no es el mejor
+> van a tener mejores resultados que los que usan este super modelo y no saben pedir
+
+**Micro-pregunta:** *"¿Cuál de estas tareas les ayudaría más en su día a día?"*
+
+---
+
+## BLOQUE 3 — IA de EEUU vs China (8 min · 📼)
+
+🎞️ **Pasa a:** "3 · EEUU vs China" (divisor con banderas).
+
+> "pasemos a nuestro tercer bloque"
 
 > "Seguro han escuchado 'la IA china es mala' o 'la gringa es la buena'. Quiero bajarle el tono:
 > hay **dos grandes escuelas**, la de **Estados Unidos** y la de **China**, y **las dos** hacen cosas
@@ -135,7 +172,8 @@
 
 > "No es una pelea de boxeo: son dos países compitiendo por liderar la tecnología. Es como las marcas
 > de carros: **no hay una que sirva para todo**, y la competencia, a nosotros como usuarios, nos beneficia. Y mucho."
-> La competencia hace que las empresas intenten mejorar su servicio y bajar el costo
+> La competencia hace que las empresas intenten mejorar su servicio y bajar el costo. Sino fuera por la IA china
+> ChatGPT en su plan pago costaria el doble
 
 🎞️ **Pasa a:** "Cuatro diferencias clave".
 
@@ -154,6 +192,9 @@
 > en **sus servidores** (unos en EEUU, otros en China) y aplica **sus propias políticas**. Por eso, con
 > **datos de asociados** la regla es la misma con todos: **no subirlos a herramientas públicas**; usar
 > **corporativo o local**."
+>
+> Multi 2 tiene una IA llama Soli, no puede compartir información de asociados a nuestro proveedor de IA
+> Ni gringo ni chino
 
 🎞️ **Pasa a:** "Cómo empezar sin gastar un peso".
 
@@ -166,48 +207,21 @@
 
 ---
 
-## BLOQUE 3 — Modelos de IA (10 min · 📼)
-
-🎞️ **Pasa a:** "3 · Modelos" (divisor).
-
-> "Imaginen que necesitan arreglar un baño: ¿llamarían a un arquitecto? No, al fontanero. Con la IA
-> pasa igual: **cada modelo es bueno en algo**."
-
-🎞️ **Pasa a:** "No hay un modelo para todo" (equipo de profesionales).
-
-> "Piensen en los modelos como un **equipo de profesionales**: hay **escritores** (texto), **ilustradores**
-> (imagen), **traductores/transcriptores** (voz), **analistas** (datos) y **programadores** (código).
-> Todos son 'IA', pero cada uno tiene su especialidad."
-
-🎞️ **Pasa a:** "Las 6 familias y sus especialistas".
-
-> "Las **6 familias**: **Texto** (GPT, Gemini, Claude, Llama) · **Imagen** (FLUX, Stable Diffusion,
-> Ideogram) · **Voz** (Whisper, ElevenLabs) · **Video** (Sora, Runway, Kling, Seedance) ·
-> **Datos** (análisis con GPT/Gemini/Claude) · **Código** (Claude, DeepSeek Coder, Qwen Coder)."
-
-> "La regla de oro es sencilla: **primero la tarea, después el modelo.** Y si quieren ver **cuál es el
-> mejor hoy**, hay un ranking actualizado por rama (**artificialanalysis.ai/es#intelligence**)."
-
-> "Para nuestro día a día en Coomultiunion: para una **circular**, un modelo de texto; para una **pieza
-> de redes**, uno de imágenes; para **resumir un convenio de 40 páginas**, uno que lea documentos largos;
-> para **analizar afiliaciones**, uno de datos. Y un consejo: **empiecen con un solo modelo**; dominar uno
-> vale más que probar veinte a medias."
-
-**Micro-pregunta:** *"¿Cuál de estas tareas les ayudaría más en su día a día?"*
-
----
-
 ## BLOQUE 4 — Pedir bien · Prompt Engineering (15 min · 🎥)
+
+> "Antes de arrancar, una pregunta: ¿por qué a unas personas la IA les sirve y a otras no?
 
 🎞️ **Pasa a:** "4 · Pedir bien" (divisor).
 
-> "Antes de arrancar, una pregunta: ¿por qué a unas personas la IA les sirve y a otras no?
 > No es suerte. **Miren esto.**"
+
 
 🎞️ **Pasa a:** "Dos prompts, dos resultados" (la comparación, en pantalla).
 
-> "Estas son dos respuestas de **la misma IA**, para **la misma tarea**: un mensaje de bienvenida
-> para la cooperativa. En la primera pedí algo flojo: sale un correo largo, genérico y con huecos
+> "Estas son dos respuestas de **la misma IA**, para **la misma tarea**: 
+> ¿que queriamos? 
+> un mensaje de bienvenida para la cooperativa. Samir nos dice "un mensaje para enviarle al celular a los asociados"
+> En la primera pedí algo flojo: sale un correo largo, genérico y con huecos
 > tipo '[nombre del socio]'. En la segunda pedí bien: **dos versiones cortas**, en tono cálido y
 > listas para usar. **¿Qué cambió? No la IA: cómo le pedí.** A eso le llamamos *prompt engineering*."
 
@@ -227,6 +241,7 @@
 
 > "Y el truco más poderoso: **conversa con la IA**. Dile 'hazlo más corto', 'más formal', 'cámbiale el
 > tono'. Es una conversación, no una lotería."
+
 
 🎞️ **Pasa a:** "Si la IA responde mal, probablemente le pediste mal" (aquí están los botones de demo).
 
