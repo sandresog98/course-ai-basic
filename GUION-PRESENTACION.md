@@ -394,8 +394,7 @@ explica el proceso con los prompts en pantalla.
 
 > "Y esto es solo el comienzo. Quedaron por fuera **cuatro cosas** que ya se están usando:
 > **grupos de agentes** de IA trabajando en equipo, **automatización de correo**, **chatbots a la
-> medida** con la información de la cooperativa, y el uso de **LLMs para estudiar**. Si les interesa,
-> ese puede ser el próximo curso."
+> medida** con la información de la cooperativa, y el uso de **LLMs para estudiar**."
 
 🎞️ **Pasa a:** "¡Gracias!".
 
